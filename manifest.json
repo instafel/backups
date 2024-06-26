@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "name": "Example backup",
+    "shown_name": "Example Backup",
     "author": "mamiiblt",
     "description": "This backup maked for the newest features!",
     "optional": {
