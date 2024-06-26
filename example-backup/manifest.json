@@ -3,6 +3,7 @@
   "manifest": {
     "backup_version": 2,
     "changelog": "- Added bla bla bla\n- Removed la la la",
+    "last_updated": "26.06.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
