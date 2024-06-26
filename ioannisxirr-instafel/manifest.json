@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "manifest": {
+    "shown_name": "ioxannisxir's Instafel Backup",
+    "backup_version": 31,
+    "author": "ioxannisxir",
+    "description": "Yeah, most popular backup in the world!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
