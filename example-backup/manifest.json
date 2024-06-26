@@ -6,7 +6,7 @@
     "author": "mamiiblt",
     "description": "This backup maked for the newest features!",
     "optional": {
-      "show_author_socials": true,
+      "show_author_socials": true
     },
     "optional_values": {
       "author_socials": {
