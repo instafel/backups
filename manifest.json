@@ -10,7 +10,7 @@
       "show_author_socials": true,
       "show_changelog": true
     },
-    "optional_values" {
+    "optional_values": {
       "author_socials": {
         "github": "mamibilt",
         "instagram": "mamiiblt"
