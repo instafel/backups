@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 31,
-    "changelog": "- Added hahaha\n- Removed idk",
-    "last_updated": "26.06.2024",
+    "backup_version": 32,
+    "changelog": "- Added leyleyley\n- Removed teyteytey",
+    "last_updated": "27.06.2024",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
