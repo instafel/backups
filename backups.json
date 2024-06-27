@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "backups": [
+    {
+      "id": "example-backup",
+      "name": "Example Backup",
+      "author": "mamiiblt"
+    },
+    {
+      "id": "ioannisxirr-instafel",
+      "name": "ioxannisxir's Instafel Backup",
+      "author": "ioannisxirouxakis"
+    },
+  ]
+}
