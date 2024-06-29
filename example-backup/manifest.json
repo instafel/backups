@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 6,
+    "backup_version": 7,
     "changelog": "laa",
     "last_updated": "29.06.2024",
     "description": "This backup maked for the newest features!",
