@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 10,
-    "changelog": "update 3",
+    "backup_version": 11,
+    "changelog": "la",
     "last_updated": "29.06.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
