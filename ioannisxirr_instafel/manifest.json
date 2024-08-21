@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "manifest": {
+    "backup_version": 41,
+    "changelog": "testing_backups_system",
+    "last_updated": "21.08.2024",
+    "description": "Yeah, most popular backup in the world!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
