@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 42,
+    "backup_version": 41,
     "changelog": "ioannisxirr's Instafel backup v42\n\n-Brought back the reel draft sizes.\n-Now you can write messages using Meta AI (not working in my testing, maybe because I'm not in a Meta AI supported region).\n-Redesigned the next button when selecting something in reels/posts/multiselecting in stories.\n-You can pin the reel drafts now (doesn't work properly yet, will probably work in newer versions).\n-Now you c",
     "last_updated": "21.08.2024",
     "description": "Yeah, most popular backup in the world!",
