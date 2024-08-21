@@ -2,17 +2,17 @@
   "manifest_version": 1,
   "backups": [
     {
-      "id": "example-backup",
+      "id": "example_backup",
       "name": "Example Backup",
       "author": "mamiiblt"
     },
     {
-      "id": "ioannisxirr-instafel",
+      "id": "ioannisxirr_instafel",
       "name": "ioxannisxir's Instafel Backup",
       "author": "ioannisxirouxakis"
     },
     {
-      "id": "zain-backup",
+      "id": "zain_backup",
       "name": "Zain's Backup",
       "author": "iamzainnnn"
     }
