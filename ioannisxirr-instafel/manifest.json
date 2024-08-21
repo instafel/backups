@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 32,
+    "backup_version": 41,
     "changelog": "-Made the reaction sheet available to be in full screen and categorised the emojis./n-‎Now you can lock and unlock chats in Direct./n-‎Redesign of the live starting sheet, where the title section is on the bottom and has an Add a title text and the audience icon is now also redesigned./n-‎Added the Imagine option on the stickers tab./n-‎Removed the cube transition on stories./n-‎Now you can filter chats by people you follow (professional accounts only, specifically creator ones if I'm correct)./n-‎Redesign of the post gallery sheet./n-‎You can now hold to select a theme quickly again./n-‎You can set messages to disappear after a specific amount of time (not working on my testing, I'll try to experiment to see if I can enable it, otherwise it might work on newer versions)./n-‎Removed the new menu as it takes a lot of space and matches the new comment actions blur better, and added some new animations to it./n-‎Minor changes and fixes./n/nI'm terribly sorry for having that much time posting a new update, but some important personal problems had to be resolved. I'm back now, though, and I'll try to post on a regular basis again./n/nSorry again for the inconvenience.",
     "last_updated": "27.06.2024",
     "description": "Yeah, most popular backup in the world!",
