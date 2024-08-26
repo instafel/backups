@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 42,
-    "changelog": "- Brought back the reel draft sizes.\n- Now you can write messages using Meta AI (not working in my testing, maybe because I'm not in a Meta AI supported region).\n- Redesigned the next button when selecting something in reels/posts/multiselecting in stories.\n- You can pin the reel drafts now (doesn't work properly yet, will probably work in newer versions).\n- Now you can post voice messages up to 30 minutes long. Shoutout to @NightX24 and @iamzainnnn for finding this feature🔥\n- Minor changes and improvements.",
-    "last_updated": "21.08.2024",
+    "backup_version": 43,
+    "changelog": "ioannisxirr's Instafel backup v44\n\n-Close friends indicator on the reply sheet of stories made for close friends.\n-Now you can share reels sent in chats to your story and to other platforms through the forwarding button next to them.\n-Made the grid taller in the profiles.\n-You can now create GIF notes (not working in my testing, will work on newer versions).\n-Added a Learn more and Watch again screen on the feed video ads so they're not playing again and again.\n-Minor changes.",
+    "last_updated": "26.08.2024",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
