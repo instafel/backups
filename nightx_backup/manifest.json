@@ -1,0 +1,15 @@
+{
+  "manifest_version": 1,
+  "manifest": {
+    "backup_version": 3,
+    "changelog": "test",
+    "last_updated": "29.08.2024",
+    "description": "backup description",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
