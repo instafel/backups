@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 3,
-    "changelog": "test",
+    "backup_version": 4,
+    "changelog": "Night -X  V4.6 (testing)\n◾️Insta Version: Alpha v347  \n\nChangelog \n* Enabled nido ( now you can explore topic based reels )\n* Enabled close friends indicator in notes\n* Improved reels draft section \n* Enabled take a pic in  profile upload menu \n* Enabled Indigo themed buttons\n* Enabled gallery album picker menu\n* Enable voice msg out of chat playback ( It will not work in older version disable:- voice msg out of chat playback )\n* Enable Expandable profile pics ( account privacy)\n\nCredits \n@panagiotisbeth , @Sachin_dobriyal @AviVishwakarma08  @iamzainnnn @itzjustauser\nThanks for the flags",
     "last_updated": "29.08.2024",
     "description": "backup description",
     "optional": {
