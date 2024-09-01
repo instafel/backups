@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 4,
-    "changelog": "Night -X  V4.6 (testing)\n◾️Insta Version: Alpha v347  \n\nChangelog \n* Enabled nido ( now you can explore topic based reels )\n* Enabled close friends indicator in notes\n* Improved reels draft section \n* Enabled take a pic in  profile upload menu \n* Enabled Indigo themed buttons\n* Enabled gallery album picker menu\n* Enable voice msg out of chat playback ( It will not work in older version disable:- voice msg out of chat playback )\n* Enable Expandable profile pics ( account privacy)\n\nCredits \n@panagiotisbeth , @Sachin_dobriyal @AviVishwakarma08  @iamzainnnn @itzjustauser\nThanks for the flags",
-    "last_updated": "29.08.2024",
+    "backup_version": 5,
+    "changelog": "Night -X  V4.7\n◾️Insta Version: Alpha v348  \n\nChangelog \n* Enabled message/follow option and avatar editor in expanded profile picture\n* Redesigned Group creation sharesheet now show you selected users number\n* Enabled recent stickers tab\n* Enabled crossposting settings (@iamzainnnn thanks for the flag )\n* Enabled rounded corners in  bottom sheet\n* Enabled Saved audio section in reels\n* Added Collab notes and gif notes ( not working)\n* Enabled reels external forwarding option  (Direct)\n* Redesigne Direct gallery\n* Change the Follow button to Message on the group chat's member list",
+    "last_updated": "01.09.2024",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
