@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 9,
-    "changelog": "@iamzainnnn's instafel backup v7\n\n*Enabled AI group profile picture.\n*Enabled carousel peek on feed.\n*Added message and follow button in expanded profile.\n*Enabled avatar button in self profile expand view.\n*Enabled notes try it option.\n*Activated new vinyl look in stories.\n*Brought back amoled black theme.\n*Brought back Spotify listening now.\n*Activated social score in emoji pong game.\n*Some minor changes and bug fixes.\n\n*Check telegram post for full details*\n\n﻿Don't forget to enable auto update to get my backup updated automatically.",
+    "backup_version": 10,
+    "changelog": "test",
     "last_updated": "02.09.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
