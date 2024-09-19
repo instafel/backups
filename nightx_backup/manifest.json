@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 6,
-    "changelog": "Night -X  V5.6\n◾️Insta Version: Alpha v349  \n\nChangelog \n* Improve prism design \n* Enable Message pin option ( not working)\n* Improve text tool ui (feed/stories)\n* Disable multi select\n* Redesigned Content note\n* Enable Scheduled messages ( not working)\n* Redesigned Feed Draft \n* Improve ai Images creator \n* Enable meta ai composer in direct\n* Redesigne Meta Ai typing indicator-(Thanks @iamzainnnn)\n*",
-    "last_updated": "11.09.2024",
+    "backup_version": 7,
+    "changelog": "Night -X  V5.6\n◾️Insta Version: Alpha v350 \n\n* Fixed crash issue when opening Direct \n* Improve Sticker tab \n* Enabled Pinch to zoom (stories)\n* Improve Cutout sticker\n* Add text in reels cover\n* Enable default video option in reels creation\n* Remove unwanted flags",
+    "last_updated": "19.09.2024",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
