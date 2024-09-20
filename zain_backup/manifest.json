@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 8,
-    "changelog": "@iamzainnnn's instafel backup v8\n\n\n*Enabled Content notes quick emoji\n*Enabled notes save to Spotify.\n*Enabled schedule message feature.\n*Enabled new text tool ui on feed post.\n*Activated new fonts in stories create mode.\n*Enhanced meta ai typing design.\n*Tweaked carousel peek flags.\n*Some minor changes and bug fixes.\n\n\nDon't forget to enable auto update to get my backup updated automatically.",
-    "last_updated": "08.09.2024",
+    "backup_version": 9,
+    "changelog": "@iamzainnnn's instafel backup v9\n\n*Enabled text in reels cover\n*Enabled new toolbar in carousel post.\n*Enabled stories zoom feature.\n*Enabled imagine me.\n*Enabled direct group name.\n*Enabled reels blends\n*Enabled pinned message\n*Enabled comment threads posting\n*Redesigned notes share button.\n*Improved auto follow back.\n*Enhanced ai themes\n*Enabled bottom message tabs in direct messages.\n*Brought back floaty likes on feed and reels.\n*Brought back explore in bottom tabs.\n*Brought back threads row camera.\n*Removed unwanted and useless things.\n*Fixed many things and enhanced it more.\n\n*Check telegram for detailed changelogs*\n\nDon't forget to enable auto update for my backup to get updated it automatically.",
+    "last_updated": "20.09.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
