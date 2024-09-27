@@ -2,6 +2,7 @@
   "manifest_version": 1,
   "manifest": {
     "name": "Night-X's Backup",
+    "author": "nightx24",
     "backup_version": 8,
     "changelog": "Night -X  V6.8\n◾️Insta Version: Alpha v351 \n\n* Improve stories comment \n* Enable hd toggle in gallery ( direct)\n* Improve auto follow back\n* Redesign notes share button\n* The option to add group name is enabled in the group creator menu\n* Improve Ai theme (Direct)",
     "last_updated": "22.09.2024",
