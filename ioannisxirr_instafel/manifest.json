@@ -1,6 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
+    "name": "ioannisxir's Instafel Backup",
     "backup_version": 43,
     "changelog": "ioannisxirr's Instafel backup v44\n\n-Close friends indicator on the reply sheet of stories made for close friends.\n-Now you can share reels sent in chats to your story and to other platforms through the forwarding button next to them.\n-Made the grid taller in the profiles.\n-You can now create GIF notes (not working in my testing, will work on newer versions).\n-Added a Learn more and Watch again screen on the feed video ads so they're not playing again and again.\n-Minor changes.",
     "last_updated": "26.08.2024",
