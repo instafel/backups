@@ -1,6 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
+      "name": "Example Backup",
     "backup_version": 18,
     "changelog": "Added nothing",
     "last_updated": "23.08.2024",
