@@ -2,7 +2,7 @@
   "manifest_version": 1,
   "manifest": {
     "name": "Example Backup",
-    "author": "mamiiblt"
+    "author": "mamiiblt",
     "backup_version": 18,
     "changelog": "Added nothing",
     "last_updated": "23.08.2024",
