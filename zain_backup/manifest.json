@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 12,
+    "backup_version": 13,
     "changelog": "@iamzainnnn's instafel backup v11\n\n*Enabled pinch to clear on reels.\n*Enabled polls unsend option.\n*Enabled sort reels by views.\n*Enabled Halloween related things.\n*Enabled new Halloween font and effects on stories.\n*Increased carousel video duration.\n*Enabled new camera icon in reels tab.\n*Enabled new audio browser.\n*Enabled new animation in direct notes.\n*Enabled bio prompts.\n*Enabled multiple profile pictures.\n(It's not working yet, i hope it will start working soon.)\n*Enabled carousel scrubber.\n*Brought back longer reel reshare.\n*Improved some ui designs.\n*Fixed some bugs.\n\nPrevious changelogs.",
     "last_updated": "10.10.2024",
     "description": "This backup maked for the newest features!",
