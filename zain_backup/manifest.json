@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 10,
-    "changelog": "@iamzainnnn's instafel backup v10\n\n*Enabled mention button on stories.\n*Enabled add profile picture option.\n*Enabled sound indicator on story.\n*Redesigned the follow button in a private account.\n*Enabled HD Toggle in direct media gallery.\n*Enabled new animation for feed videos.\n*Brought back carousel peek\n*Enabled view fullscreen option in the reels overflow menu.\n*Brought back some options in the self story viewer.\n*Changed some icon positions.\n*Fixed some minor issues and improved it more.",
-    "last_updated": "30.09.2024",
+    "backup_version": 11,
+    "changelog": "@iamzainnnn's instafel backup v11\n\n*Enabled pinch to clear on reels.\n*Enabled polls unsend option.\n*Enabled sort reels by views.\n*Enabled Halloween related things.\n*Enabled new Halloween font and effects on stories.\n*Increased carousel video duration.\n*Enabled new camera icon in reels tab.\n*Enabled new audio browser.\n*Enabled new animation in direct notes.\n*Enabled bio prompts.\n*Enabled multiple profile pictures.\n(It's not working yet, i hope it will start working soon.)\n*Enabled carousel scrubber.\n*Brought back longer reel reshare.\n*Improved some ui designs.\n*Fixed some bugs.\n\nPrevious changelogs.",
+    "last_updated": "10.10.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
