@@ -1,0 +1,17 @@
+{
+  "manifest_version": 1,
+  "manifest": {
+    "name": "Pixelishfr's Backup",
+    "author": "PixelVini",
+    "backup_version": 26,
+    "changelog": "example_changelog",
+    "last_updated": "24.10.2024",
+    "description": "Simple and Optimized!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
