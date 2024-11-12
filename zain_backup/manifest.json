@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 11,
-    "changelog": "@iamzainnnn's instafel backup v11\n\n*Enabled pinch to clear on reels.\n*Enabled polls unsend option.\n*Enabled sort reels by views.\n*Enabled Halloween related things.\n*Enabled new Halloween font and effects on stories.\n*Increased carousel video duration.\n*Enabled new camera icon in reels tab.\n*Enabled new audio browser.\n*Enabled new animation in direct notes.\n*Enabled bio prompts.\n*Enabled multiple profile pictures.\n(It's not working yet, i hope it will start working soon.)\n*Enabled carousel scrubber.\n*Brought back longer reel reshare.\n*Improved some ui designs.\n*Fixed some bugs.\n\nPrevious changelogs.",
-    "last_updated": "10.10.2024",
+    "backup_version": 12,
+    "changelog": "@iamzainnnn's instafel backup v12\n\n*Enabled notes quick emojis.\n*Enabled background toolbar button on stories.\n(work with reels and posts)\n*Enabled mention button in self story toolbar.\n*Enabled Halloween visual effects on notes.\n*Enabled music option in direct overflow.\n*Increased carousel post count limit to 50\n*Enabled quick profile on stories.\n*Enabled edit carousel after sharing.\n*Enabled gallery button in stories layout.\n(Now you can select local pictures in layout stories)\n*Enabled highlight archive option.\n(Now you can archive your highlights.)\n*Enabled imagine this option in direct.\n(Long press on any text to access this)\n*Enabled group mention in comments.\n(Now you can also mention groups in comments.)\n*Enabled call on WhatsApp option.\n(When someone shares a number with you, you can make a WhatsApp call by tapping on it.)\n*Brought back feed video scrubber.\n*Brought back the old story design.\n*Brought back timestamps on reels.\n*Brought back the old highlight design instead of the highlight tab.\n*Updated audio browser.\n*Updated some icons.\n*And many more things I've enabled which i don't remember.! :)\n*Improved and fixed some bugs.\n\ncheck telegram for more information!",
+    "last_updated": "12.11.2024",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
