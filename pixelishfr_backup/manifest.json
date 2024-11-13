@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 27,
-    "changelog": "@Pixelishfr's Instafel backup v28\n\n• Previous Change Log\n\n Enabled Story and Post Insights for non Pro Accounts.\n(Now non professional accounts can also see the insights on the left side of story and Posts.)\n Enabled Mention button and Create Post button on the story section with the highlights and Story viewers list button.\n Updated Explore Search Bar.\n(Search bar with meta ai and ai call.)\n Updated Reshare Grid.\n(Four Columns instated of three.. you can see more people's than prior.)\n Updated Search list while sharing reel or post.\n(You can see a vertical list of people Instead of old style it's much more easier accessible.)\n Changed Story Ring Size.\n(More Precise and much cleaner looking than before.)\n Changes In Feed Header.\n(Removed For you title which was buggy while switching into different accounts.)\n-Removed Reels Interaction.\n(Intrested and Non Intrested Button is removed.)\n\n•Fixed Bugs.\n•More Better than previous one.",
+    "backup_version": 28,
+    "changelog": " Enabled Story and Post Insights for non Pro Accounts.\n(Now non professional accounts can also see the insights on the left side of story and Posts.)\n Enabled Mention button and Create Post button on the story section with the highlights and Story viewers list button.\n Updated Explore Search Bar.\n(Search bar with meta ai and ai call.)\n Updated Reshare Grid.\n(Four Columns instated of three.. you can see more people's than prior.)\n Updated Search list while sharing reel or post.\n(You can see a vertical list of people Instead of old style it's much more easier accessible.)\n Changed Story Ring Size.\n(More Precise and much cleaner looking than before.)\n Changes In Feed Header.\n(Removed For you title which was buggy while switching into different accounts.)\n-Removed Reels Interaction.\n(Intrested and Non Intrested Button is removed.)",
     "last_updated": "13.11.2024",
     "description": "Simple and Optimized!",
     "optional": {
