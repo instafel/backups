@@ -1,8 +1,8 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 45,
-    "changelog": "-Upgraded the video note length to 60 seconds.\n-Now you can zoom on stories again.\n-Added a shortcut to create notes for posts.\n-Brought back the seekbar in the reels in both the Feed and the Reels tab.\n-Added an Edit grid option in the profile so you can reorder your grid (not working yet as the option is not clickable, might work in future versions).\n-Minor changes and fixes.",
+    "backup_version": 46,
+    "changelog": "-You can now send cutout stickers you made in chats, as well as create them instantly from the stickers sheet.\n-Made the bottom icons gray and filled to match the stock Instagram buttons as the Black and White design I had in my backup is now gone.\n-Redesigned the Reels, making them cleaner.\n-Redesigned the reels previewing editor, which is now more functional.\n-Elevate your stories and use the special #ValentinesDay2025 vinyl look when using music stickers in stories and selfies in Direct!\n-Minor changes.",
     "last_updated": "04.02.2025",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
