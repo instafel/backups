@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 44,
+    "backup_version": 45,
     "changelog": "-Upgraded the video note length to 60 seconds.\n-Now you can zoom on stories again.\n-Added a shortcut to create notes for posts.\n-Brought back the seekbar in the reels in both the Feed and the Reels tab.\n-Added an Edit grid option in the profile so you can reorder your grid (not working yet as the option is not clickable, might work in future versions).\n-Minor changes and fixes.",
     "last_updated": "04.02.2025",
     "description": "Yeah, most popular backup in the world!",
