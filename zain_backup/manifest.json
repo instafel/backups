@@ -1,9 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
-    "backup_version": 13,
-    "changelog": "@iamzainnnn's Instafel Backup v13\n\n*Enabled new like animation on stories,feeds and reels.\n*Enabled new year collage on stories!\n*Enabled quick video send option in dms!(Long press on the camera icon to access it)\n*Enabled new chat filter row instead of twinbox.\n*Enabled new background color picker on stories!\n*Enabled sticker layer merge on stories.\n*Removed reels gesture buttons.\n*Enabled new like animation on self stories pog!\n*Enabled gif notes on clips content notes.(Not functional yet.)\n*Brought back floaty likes.\n*Enabled content notes ufi button on reels.\n*Enabled new audio page layout.\n*Enabled ai rewrite features.\n*Changed the audio mute button position(the old one stopped working.)\n*Enabled notification swipe actions.\n*Updated reels editing toolbar ui.\n*Updated some button designs.\n*Updated sub flags.\n*Improved it and fixed some bugs.",
-    "last_updated": "29.12.2024",
+    "backup_version": 14,
+    "changelog": "@iamzainnnn's Instafel Backup v14\n\n*Enabled voice note reply shortcut.(not working yet)\n*Enabled reposts subtab in profile page.\n(Not working yet)\n*Enabled voice note audio effects.\n*Enabled voice note background playback.\n*Enabled new heart design in floating likes.\n*Enhanced meta ai voice ui.\n*Enabled meta ai voice in explore search bar.\n*Enabled liked by friends tab in clips.\n(Here, you can see the reels liked by your friends.)\n*Enabled trending reels lane.\n*Enabled auto touch option in reels camera.\n*Enabled valentines day related flags.\n*Enabled edit grid option.\n*Enabled comment dislike button.\n*Enhanced some animations.\n*Removed meta ai composer button.\n*Updated some icons.\n*Updated prism designs.\n*Updated reels scrubber.\n*Updated profile grid.\n*Updated some old flags.\n*Fixed voice recording problem.\n*Fixed some minor bugs.\n*Improved it more than before.",
+    "last_updated": "04.02.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
