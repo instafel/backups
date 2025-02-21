@@ -1,11 +1,10 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 2,
   "manifest": {
-    "name": "Example Backup",
-    "author": "mamiiblt",
-    "backup_version": 18,
-    "changelog": "Added nothing",
-    "last_updated": "23.08.2024",
+    "version_name": "v1.0.13-helelel",
+    "backup_version": 19,
+    "changelog": "merhaba",
+    "last_updated": "21.02.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
