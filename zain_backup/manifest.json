@@ -5,6 +5,7 @@
     "backup_version": 14,
     "changelog": "@iamzainnnn's Instafel Backup v14\n\n*Enabled voice note reply shortcut.(not working yet)\n*Enabled reposts subtab in profile page.\n(Not working yet)\n*Enabled voice note audio effects.\n*Enabled voice note background playback.\n*Enabled new heart design in floating likes.\n*Enhanced meta ai voice ui.\n*Enabled meta ai voice in explore search bar.\n*Enabled liked by friends tab in clips.\n(Here, you can see the reels liked by your friends.)\n*Enabled trending reels lane.\n*Enabled auto touch option in reels camera.\n*Enabled valentines day related flags.\n*Enabled edit grid option.\n*Enabled comment dislike button.\n*Enhanced some animations.\n*Removed meta ai composer button.\n*Updated some icons.\n*Updated prism designs.\n*Updated reels scrubber.\n*Updated profile grid.\n*Updated some old flags.\n*Fixed voice recording problem.\n*Fixed some minor bugs.\n*Improved it more than before.",
     "last_updated": "04.02.2025",
+    "author": "iamzainnnn",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
