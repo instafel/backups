@@ -3,6 +3,7 @@
   "manifest": {
     "version_name": "v9.4",
     "backup_version": 9,
+    "author": "nightx24",
     "changelog": "Night -X  V9.4\n◾️Insta Version: Alpha v358 \n\nChangelog:- \n \n* Revert to the previous Quick Share.\n\n* Fixed issue with music continuing to play in the background.\n\n* Disabled recent emojis (due to improper functionality).\n\n* Enabled share sheet in channels (allows URL generation for sharing with third-party apps).\n\n* Redesigned the minimize icon for content notes.\n\n* Fixed issue preventing video uploads with music in stories. (@iamzainnnn, thank you for the fix)\n\n* Improved overall user experience.\n\nLet me know your thoughts and if you like it!",
     "last_updated": "13.11.2024",
     "description": "backup description",
