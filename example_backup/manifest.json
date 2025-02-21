@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "manifest": {
-    "version_name": "v1.0.13-helelel",
-    "backup_version": 19,
+    "version_name": "v1.0",
+    "backup_version": 20,
     "changelog": "merhaba",
     "last_updated": "21.02.2025",
     "description": "This backup maked for the newest features!",
