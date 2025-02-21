@@ -2,6 +2,7 @@
   "manifest_version": 2,
   "manifest": {
     "version_name": "v1.0-hotfix",
+    "author": "mamiiblt",
     "backup_version": 21,
     "changelog": "merhaba",
     "last_updated": "21.02.2025",
