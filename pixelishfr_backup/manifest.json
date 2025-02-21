@@ -1,8 +1,9 @@
 {
   "manifest_version": 1,
   "manifest": {
+    "version_name": "v29",
     "backup_version": 29,
-    "changelog": "Test",
+    "changelog": "meaw",
     "last_updated": "17.12.2024",
     "description": "Simple and Optimized!",
     "optional": {
