@@ -1,6 +1,7 @@
 {
   "manifest_version": 1,
   "manifest": {
+    "version_name": "v46-updated",
     "backup_version": 46,
     "changelog": "-You can now send cutout stickers you made in chats, as well as create them instantly from the stickers sheet.\n-Made the bottom icons gray and filled to match the stock Instagram buttons as the Black and White design I had in my backup is now gone.\n-Redesigned the Reels, making them cleaner.\n-Redesigned the reels previewing editor, which is now more functional.\n-Elevate your stories and use the special #ValentinesDay2025 vinyl look when using music stickers in stories and selfies in Direct!\n-Minor changes.",
     "last_updated": "04.02.2025",
