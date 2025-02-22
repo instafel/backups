@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "manifest": {
-    "version_name": "v29",
-    "backup_version": 29,
-    "changelog": "meaw",
+    "version_name": "v30",
+    "backup_version": 30,
     "author": "PixelVini",
-    "last_updated": "17.12.2024",
+    "changelog": "V30",
+    "last_updated": "22.02.2025",
     "description": "Simple and Optimized!",
     "optional": {
       "show_author_socials": false
