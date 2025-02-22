@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "manifest": {
     "version_name": "v15",
-    "backup_version": 15,
+    "backup_version": 16,
     "author": "iamzainnnn",
     "changelog": "@iamzainnnn's Instafel Backup v15\n\n*Enabled new text effects on stories.\n*Enabled new valentine fonts on stories.\n*Enabled timed polls in reels post.\n*Enabled a new reply bar for Reels in chats.\n*Enabled social channels.\n(now you can create a social channel)\n*Enabled music shortcut button in message composer.\n*Enabled whatsapp option in profile.\n(now you can link your whatsapp account directly in profile.)\n*Enabled voice message forwarding.\n*Enabled voice message transcription.\n*Enabled link preview in chats.\n*Enabled whatsapp status button in sharesheet.\n(Not working yet.)\n*Improved story opening animation.\n*Updated voice note background playback.\n*Updated meta ai voice.\n*Updated follow request design.\n*Fixed some minor bugs.",
     "last_updated": "22.02.2025",
