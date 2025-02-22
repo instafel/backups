@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "manifest": {
-    "version_name": "v14",
-    "backup_version": 14,
-    "changelog": "@iamzainnnn's Instafel Backup v14\n\n*Enabled voice note reply shortcut.(not working yet)\n*Enabled reposts subtab in profile page.\n(Not working yet)\n*Enabled voice note audio effects.\n*Enabled voice note background playback.\n*Enabled new heart design in floating likes.\n*Enhanced meta ai voice ui.\n*Enabled meta ai voice in explore search bar.\n*Enabled liked by friends tab in clips.\n(Here, you can see the reels liked by your friends.)\n*Enabled trending reels lane.\n*Enabled auto touch option in reels camera.\n*Enabled valentines day related flags.\n*Enabled edit grid option.\n*Enabled comment dislike button.\n*Enhanced some animations.\n*Removed meta ai composer button.\n*Updated some icons.\n*Updated prism designs.\n*Updated reels scrubber.\n*Updated profile grid.\n*Updated some old flags.\n*Fixed voice recording problem.\n*Fixed some minor bugs.\n*Improved it more than before.",
-    "last_updated": "04.02.2025",
+    "version_name": "v15",
+    "backup_version": 15,
     "author": "iamzainnnn",
+    "changelog": "@iamzainnnn's Instafel Backup v15\n\n*Enabled new text effects on stories.\n*Enabled new valentine fonts on stories.\n*Enabled timed polls in reels post.\n*Enabled a new reply bar for Reels in chats.\n*Enabled social channels.\n(now you can create a social channel)\n*Enabled music shortcut button in message composer.\n*Enabled whatsapp option in profile.\n(now you can link your whatsapp account directly in profile.)\n*Enabled voice message forwarding.\n*Enabled voice message transcription.\n*Enabled link preview in chats.\n*Enabled whatsapp status button in sharesheet.\n(Not working yet.)\n*Improved story opening animation.\n*Updated voice note background playback.\n*Updated meta ai voice.\n*Updated follow request design.\n*Fixed some minor bugs.",
+    "last_updated": "22.02.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
