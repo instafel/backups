@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "manifest": {
-    "version_name": "v30",
-    "backup_version": 30,
+    "version_name": "v31",
+    "backup_version": 31,
     "author": "PixelVini",
-    "changelog": "V30",
+    "changelog": "Version 31",
     "last_updated": "22.02.2025",
     "description": "Simple and Optimized!",
     "optional": {
