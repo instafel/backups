@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v1.0-hotfix",
+    "version_name": "v1.0-gitfix",
+    "backup_version": 22,
     "author": "mamiiblt",
-    "backup_version": 21,
-    "changelog": "merhaba",
+    "changelog": "MERHABA\nBEN MAMI\n👋👋👋👋🕊️🕊️ NABER\nHAYAT NASIL GIDIYOR",
     "name": "Example Backup",
-    "last_updated": "21.02.2025",
+    "last_updated": "23.02.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
