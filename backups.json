@@ -20,6 +20,11 @@
       "id": "nightx_backup",
       "name": "Night-X's Backup",
       "author": "nightx24"
+    },
+    {
+      "id": "example_backup",
+      "name": "Example Backup",
+      "author": "mamiiblt"
     }
   ]
 }
