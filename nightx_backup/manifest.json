@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v9.4",
-    "backup_version": 9,
+    "version_name": "v10",
+    "backup_version": 10,
     "author": "nightx24",
-    "changelog": "Night -X  V9.4\n◾️Insta Version: Alpha v358 \n\nChangelog:- \n \n* Revert to the previous Quick Share.\n\n* Fixed issue with music continuing to play in the background.\n\n* Disabled recent emojis (due to improper functionality).\n\n* Enabled share sheet in channels (allows URL generation for sharing with third-party apps).\n\n* Redesigned the minimize icon for content notes.\n\n* Fixed issue preventing video uploads with music in stories. (@iamzainnnn, thank you for the fix)\n\n* Improved overall user experience.\n\nLet me know your thoughts and if you like it!",
+    "changelog": "* Redesigned Reels countdown timer\n* Enabled Reels auto-scroll (Hands-free mode)\n* Updated UI elements\n* Removed faulty flags\n* Changed profile layout \n* Improved overall stability\n* Updated versioning format: Previously used v9.1, v9.2, v9.3, etc. Now using v9, v10, v11, etc.",
     "name": "Night-X's Backup",
-    "last_updated": "13.11.2024",
+    "last_updated": "24.02.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
