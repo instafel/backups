@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15",
-    "backup_version": 16,
+    "version_name": "v16",
+    "backup_version": 17,
     "author": "iamzainnnn",
-    "changelog": "@iamzainnnn's Instafel Backup v15\n\n*Enabled new text effects on stories.\n*Enabled new valentine fonts on stories.\n*Enabled timed polls in reels post.\n*Enabled a new reply bar for Reels in chats.\n*Enabled social channels.\n(now you can create a social channel)\n*Enabled music shortcut button in message composer.\n*Enabled whatsapp option in profile.\n(now you can link your whatsapp account directly in profile.)\n*Enabled voice message forwarding.\n*Enabled voice message transcription.\n*Enabled link preview in chats.\n*Enabled whatsapp status button in sharesheet.\n(Not working yet.)\n*Improved story opening animation.\n*Updated voice note background playback.\n*Updated meta ai voice.\n*Updated follow request design.\n*Fixed some minor bugs.",
+    "changelog": "@iamzainnnn's Instafel Backup V16\n\n*Forcely enabled music notes.\n*Enabled new story reply bar ui.\n*Enabled hands free mode in reels menu.\n*Enabled edit button on drafts.\n*Enabled story flip scroll animation.\n*Enabled countdown in reels timer.\n*Enabled follow button on stories.\n*Enhanced saved tab ui.\n*Enhanced post publish screen.\n*Updated shortcuts design in sharesheet.\n*Updated some designs.\n*Updated some old flags.\n*Fixed some minor issues and improved it more.",
     "name": "Zain's Backup",
-    "last_updated": "22.02.2025",
+    "last_updated": "24.02.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
