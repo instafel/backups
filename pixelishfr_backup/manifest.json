@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v31",
-    "backup_version": 31,
+    "version_name": "v33",
+    "backup_version": 32,
     "author": "PixelVini",
-    "changelog": "Version 31",
+    "changelog": "Enabled Drafts Edit Button\nEnabled Music Sticker Share \nEnabled Notes Upload Retry \nEnabled Voice Note Reply Shortcut \nEnabled New Ui In Shortcut \nEnabled Camera Reels Motion Photo\nEnabled New Aura Animation In Meta AI \nEnabled Handsfree Mode In Reels\nEnabled Background Blur stories \nEnabled New Saved tab redesign ",
     "name": "Vini's Instafel Backup",
-    "last_updated": "22.02.2025",
+    "last_updated": "24.02.2025",
     "description": "Simple and Optimized!",
     "optional": {
       "show_author_socials": false
