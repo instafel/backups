@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v46-updated",
+    "version_name": "v46",
+    "backup_version": 47,
     "author": "ioannisxirouxakis",
-    "backup_version": 46,
-    "changelog": "-You can now send cutout stickers you made in chats, as well as create them instantly from the stickers sheet.\n-Made the bottom icons gray and filled to match the stock Instagram buttons as the Black and White design I had in my backup is now gone.\n-Redesigned the Reels, making them cleaner.\n-Redesigned the reels previewing editor, which is now more functional.\n-Elevate your stories and use the special #ValentinesDay2025 vinyl look when using music stickers in stories and selfies in Direct!\n-Minor changes.",
+    "changelog": "-Re-wrote the backup to fix several bugs existant in my backup (if you find any bugs, feel free to give feedback, it is very appreciated!)\n-Redesigned the chat filters, now being more convenient as they're even faster to sort chats.\n-You can now hear the voice messages out of the chats, even outside the app.\n-You can now transcript voice messages (doesn't work for me, it might be account locked or something).\n-Now the layout in search is changed, being taller, just like in profiles.\n-Minor changes.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "04.02.2025",
+    "last_updated": "25.02.2025",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
