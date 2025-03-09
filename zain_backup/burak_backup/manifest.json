@@ -12,9 +12,7 @@
       "show_author_socials": false
     },
     "optional_values": {
-      "author_socials": {
-        "github": null
-      }
+      "author_socials": null
     }
   }
 }
