@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "v9.1",
+    "backup_version": 1,
+    "author": "patrickozdag",
+    "changelog": "yeni backup upload edince değişir burası",
+    "name": "Burak's Instafel Backup",
+    "last_updated": "24.02.2025",
+    "description": "Minimalistic, modernized, clean, functional!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
