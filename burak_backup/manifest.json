@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v9.1",
-    "backup_version": 1,
+    "version_name": "v10",
+    "backup_version": 2,
     "author": "patrickozdag",
-    "changelog": "yeni backup upload edince değişir burası",
+    "changelog": "Based on Zain's v16 Instafel Backup \nDetailed changelog:\n\"panavision nav3\" icon locations reverted back to default (bell icon reverted back to like icon as well)\n\"navigation refresh\" is default \n\"prism context menu\" is default \n\"client_search_meta_ai_integration_new\" is disabled\n\"stories android bigger pogs\" is default\n\"is_dynamic_pog_sizing_enabled\" is disabled\n\"igd android gen ai search xstack\" is default \n\"enable_thread_header_entrypoint\" is default \n\"carousel peek v2\" is default \n\"show_create_mode_in_toolbar\" is default \n\"show_layout_tool_in_toolbar\" is default\n\"gallery short destination bar\" is enabled for camera in grid as well\n\"maximum recording length ms\" is increased from 300000 to 600000\n\"add people thread header entrypoint\" is enabled\n\"core flows android increased carousel size limit\" is set to 50 for both\n\"direct ai agents\" and \"direct ai agent chats\" is default now (and also eligibility is set to 0)\n\"snapshot messages per thread count\" is set to 100\n\"force scaling mode fit for clips\" is enabled\n\"shared_accounts_flows_enabled\" is default\neverything includes \"threads\" is reverted back from \"override\" to \"server\"\n\"craft sticker editing animations\" is default\n\"nido\" is default \n\"feed android sound icon\" is default\n\"stories launch improvements\" is default\n\"employee options\" is enabled\n\"multi select in archive\" is enabled\n\"clips chaining deterministic entry point enabled\" is enabled\n\"is long press fan out menu enabled\" is default\n\"use_friends_lane_entry_point_pill\" is enabled\n\"enable prism font\" is disabled\n\"disable_drawer_entry_point\" is enabled for business accounts as well \n\"spring animation\" is disabled\n\"profile tall grid context config\" is default \n\"android_enable_indigo_segmented_pills\" is disabled\n\"cube animation disabled\" is default\n\"is_camera_reply_type_enabled\" is enabled\n\"reels download end card\" is disabled\n\"camera android countdown\" is enabled\n\"cancellable and retryable media uploads\" is enabled\n\"clips friendly viewer launch is self liked bubbles enabled\" is enabled\n\"feed_camera_in_grid\" is enabled\n\"enable scrubber increase drag area\" is enabled, drag expansion top height is set to 130\n\"hardware accelerate stories progress bar\" is enabled\n\"ai rewrite\" is default\n\"is_reply_bar_and_header_enabled\" is disabled",
     "name": "Burak's Instafel Backup",
-    "last_updated": "24.02.2025",
+    "last_updated": "09.03.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
