@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v16",
-    "backup_version": 17,
+    "version_name": "v9.1",
+    "backup_version": 1,
     "author": "patrickozdag",
     "changelog": "yeni backup upload edince değişir burası",
     "name": "Burak's Instafel Backup",
