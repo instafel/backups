@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v16",
-    "backup_version": 17,
+    "version_name": "v17",
+    "backup_version": 18,
     "author": "iamzainnnn",
-    "changelog": "@iamzainnnn's Instafel Backup V16\n\n*Forcely enabled music notes.\n*Enabled new story reply bar ui.\n*Enabled hands free mode in reels menu.\n*Enabled edit button on drafts.\n*Enabled story flip scroll animation.\n*Enabled countdown in reels timer.\n*Enabled follow button on stories.\n*Enhanced saved tab ui.\n*Enhanced post publish screen.\n*Updated shortcuts design in sharesheet.\n*Updated some designs.\n*Updated some old flags.\n*Fixed some minor issues and improved it more.",
+    "changelog": "*Enabled prism font.\n*Enabled search tab audio previews.\n*You can now record video with the volume keys.\n*Now you will be able to see the camera icon in the feed gallery.\n*Updated suggested reels design on feed.\n*Updated hype interactions.\n*Enhanced carousel peek elements.\n*Updated some designs.\n*Redesigned comments author badge\n*Brought back stories cube animation.\n*Brought back reels fast playback.\n*Brought back timed polls in reels post.\n*Redesigned some elements.\n*Some minor changes.\n*Fixed some issues and glitches.",
     "name": "Zain's Backup",
-    "last_updated": "24.02.2025",
+    "last_updated": "13.04.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
