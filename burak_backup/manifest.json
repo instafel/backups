@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v11",
-    "backup_version": 3,
+    "version_name": "v11hotfix",
+    "backup_version": 4,
     "author": "patrickozdag",
-    "changelog": "\"filter row enabled\" is disabled\n\"ff likes enabled\" is disabled\n\"nf pinned row\" is disabled\n\"show timestamp in caption\" is enabled\n\"meta ai voice\" is disabled\n\"likes_visibility_has_setting\" is enabled\n\"igd android media edit\" is enabled\n\"reels tap to pause smashable mute\" is enabled\n\"fandom share to story\" is enabled\n\"reels watch and comment\" is enabled\n\"stories spotify reshares\" is enabled\n\"is rounded corner enabled\" is enabled\n\"is rounded corner on video enabled\" is enabled\n\"gallery album picker menu enable google photos menu item\" is enabled \"enable_multiline_comment_composer\" is disabled\n\"cameracore fbaudio ig use 48khz sample rate\" is enabled\n\"reels overflow interested options is simplified more menu enabled\" is enabled",
+    "changelog": "\"filter row enabled\" is disabled\n\"ff likes enabled\" is disabled\n\"nf pinned row\" is disabled\n\"show timestamp in caption\" is enabled\n\"meta ai voice\" is disabled\n\"likes visibility has setting\" is enabled\n\"igd android media edit\" is enabled\n\"reels tap to pause smashable mute\" is enabled\n\"fandom share to story\" is enabled\n\"reels watch and comment\" is enabled\n\"stories spotify reshares\" is enabled\n\"is rounded corner enabled\" is enabled\n\"is rounded corner on video enabled\" is enabled\n\"gallery album picker menu enable google photos menu item\" is enabled \"enable multiline comment composer\" is disabled\n\"cameracore fbaudio ig use 48khz sample rate\" is enabled\n\"reels overflow interested options is simplified more menu enabled\" is enabled\n\"crosspost stories to whatsapp fbidv2\" is disabled",
     "name": "Burak's Instafel Backup",
     "last_updated": "18.04.2025",
     "description": "Minimalistic, modernized, clean, functional!",
