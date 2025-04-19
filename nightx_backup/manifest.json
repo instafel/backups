@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v10",
-    "backup_version": 10,
+    "version_name": "v11",
+    "backup_version": 11,
     "author": "nightx24",
-    "changelog": "* Redesigned Reels countdown timer\n* Enabled Reels auto-scroll (Hands-free mode)\n* Updated UI elements\n* Removed faulty flags\n* Changed profile layout \n* Improved overall stability\n* Updated versioning format: Previously used v9.1, v9.2, v9.3, etc. Now using v9, v10, v11, etc.",
+    "changelog": "* Enabled the option to import photos from Google Photos.\n\n* Redesigned the Reels direct share reply bar and Send icon.\n\n* Added a setting for Likes visibility (you can control who can see your likes).\n\n* Changed Notes audience from \"Followers you follow back\" to \"Friends.\"\n\n* Enabled the Archive option in profiles (long-press your shared media to archive).\n\n* Redesigned the Notes format button.\n\n* Enabled Auto Reshare to Story (when you post a Reel, it automatically shares to your Story too).\n\n* Added the option to change Content Preferred Languages (functionality may not be fully stable yet).\n\n* Brought back the old airplane icon for Direct messages.\n\n* Enabled the new airplane icon appearance across the app.\n\n* Fixed AI-related image creation issues in Direct.\n\n* Enabled rounded corners for Stories feed reshares.\n\n* Simplified the Reels overflow Interested options",
     "name": "Night-X's Backup",
-    "last_updated": "24.02.2025",
+    "last_updated": "19.04.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
