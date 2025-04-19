@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v49",
-    "backup_version": 49,
+    "version_name": "v50",
+    "backup_version": 50,
     "author": "ioannisxirouxakis",
-    "changelog": "-Now the profile pictures of profiles are bigger.\n-You can create profile pictures for group chats using Meta AI (region locked).\n-Brought highlights as a tab in the profile again.\n-Previews of the next media now shown in carousel posts.\n-Now when you tap on a carousel post, it shows as a reel.\n-Minor changes.",
+    "changelog": "-Improved the blur while expanding profile pictures of profiles, making them way better than before.\n-Fixed the bugged circle in the search in direct.\n-You can now share the music you're currently listening to on Spotify to a music note in Instagram (haven't tested it as I do not use Spotify, feel free to give me feedback).\n-Redesigned the search button and it's behaviour in the sharing sheet.\n-Enabled the profile card for profiles (the card that shows information about the profile when you want to share it to someone).\n-Minor changes and fixes.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "02.03.2025",
+    "last_updated": "19.04.2025",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
