@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13",
-    "backup_version": 2,
+    "version_name": "v13hotflix",
+    "backup_version": 3,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n*Updated UI elements\n*Beta functions and new activated\n*Things that disrupt the experience removed\n* Quality tags enabled (I do not recommend it to data savers)\n*Fonts for new stories\n*Prism font activated\n* Modernized icons\n*Posts leased\n*Amoled activated\n*Location button in the exploit tab activated\n*Stories bigger activated\n*Icon of blends removed from conversations\n*Changed notes and letter appearing \n*Reels Modern \n*Modified settings tab \n*Animated themes in Direct",
+    "changelog": "#votsz's_backup\n\n*Updated UI elements\n*Beta functions and new activated\n*Things that disrupt the experience removed\n* Quality tags enabled (I do not recommend it to data savers)\n*Fonts for new stories\n*Prism font activated\n* Modernized icons\n*Posts leased\n*Amoled activated\n*Location button in the exploit tab activated\n*Stories bigger activated\n*Icon of blends removed from conversations\n*Changed notes and letter appearing \n*Reels Modern \n*Modified settings tab \n*Animated themes in Direct \n*Removal of a command that could cause problems with Instafel",
     "name": "votsz's Backup",
     "last_updated": "20.04.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
