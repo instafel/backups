@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "v1",
+    "backup_version": 1,
+    "author": "votsz",
+    "changelog": "yep it will be changelog",
+    "name": "votsz's Backup",
+    "last_updated": "13.04.2025",
+    "description": "a description",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
