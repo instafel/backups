@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13hotflix",
-    "backup_version": 3,
+    "version_name": "v14",
+    "backup_version": 4,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n*Updated UI elements\n*Beta functions and new activated\n*Things that disrupt the experience removed\n* Quality tags enabled (I do not recommend it to data savers)\n*Fonts for new stories\n*Prism font activated\n* Modernized icons\n*Posts leased\n*Amoled activated\n*Location button in the exploit tab activated\n*Stories bigger activated\n*Icon of blends removed from conversations\n*Changed notes and letter appearing \n*Reels Modern \n*Modified settings tab \n*Animated themes in Direct \n*Removal of a command that could cause problems with Instafel",
+    "changelog": "#votsz's_backup\n\n* New quality controls activated 🔥\n* Removed the \"Edits\" app button in the profile when opening for the first time \n* Activated  \"only_keep_screen_on_while_video_is_playing\n\" in the Reels. \n* Changes made to  \"reels overlay\"\n* \"labs japan highlights in grid android\" Disabled \n* \"content notes\" Changed \n* \"content notes craft delight\" Changed\n* \"clips friendly viewer launch\" Changed \n* \"new serp discovery grid\" Changed \n* \"sharesheet group send button send button variant\" Changed to \"0\"\n* \"gif notes\" Disabled (non-functional) \n* \"story storylines\" Disabled (non-functional) \n* \"ig4a empty profile activation card redesign\" Disabled  \n* \"clips content lanes\" Changed \n* \"igd android voice msg improvements v2 audio effects enabled\" Disabled (non-functional) \n* \"igd channels sharing forwarding messages\" Changed  \n* \"meta ai voice\" Changed \n* \"igd instamadillo replies android\" Changed \n* \"igd message translations\" Disabled  \n* Addressed some reported bugs \n\nTalk to my PM about bugs @votsz",
     "name": "votsz's Backup",
-    "last_updated": "20.04.2025",
+    "last_updated": "21.04.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
     "optional": {
       "show_author_socials": false
