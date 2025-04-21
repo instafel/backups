@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v12",
-    "backup_version": 5,
+    "version_name": "v13",
+    "backup_version": 6,
     "author": "patrickozdag",
-    "changelog": "\"empty profile activation card redesign\" is disabled\napplied @votsz's quality improvements (see \"https://t.me/instafel/34335/90659\" for exact flags.)\nthe rest of the changelog is all about disabling meta ai stuff.",
+    "changelog": "\"centered tabs with nav bar\" is enabled for better reels/friends tab look\napplied more quality improvements by @votsz (see \"https://t.me/c/2131577917/34335/90660\" for exact flags)\napplied app optimizations by @votsz (see \"https://t.me/c/2131577917/34335/98297\" for exact flags)",
     "name": "Burak's Instafel Backup",
-    "last_updated": "19.04.2025",
+    "last_updated": "21.04.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
