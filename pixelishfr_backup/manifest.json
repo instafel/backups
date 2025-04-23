@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34",
-    "backup_version": 33,
+    "version_name": "v34hotfix",
+    "backup_version": 34,
     "author": "PixelVini",
-    "changelog": "@Pixelishfr's Instafel backup v34\n\nEnabled\n stories ai edit\n floating comments\n stories made for you\n notes audiance rebrand\n paper plane direct icon\n handsfree mode in reels\n colored buttons in notes\n whatsapp music attribution\n reels overflow-simplified menu\n not interested button in reels ufi\n stories posts and reels reshare redesign\n gallery album picker google photos menu\n\nUpdated \n twinbox\n reel blends\n audio tools\n music notes\n notes efficiency\n ai group activity\n carousel swiping \n tap to pause in reel footer\n profile grid reordering\n gallery toolbar redesign\n ai characters consumption\n reels viewer improved reply reactions\n\n Fixed Some Bugs.\n Improved Than Previous Version.",
+    "changelog": "fixed crashing issue while watching reels caption",
     "name": "Vini's Instafel Backup",
-    "last_updated": "22.04.2025",
+    "last_updated": "23.04.2025",
     "description": "Simple and Optimized!",
     "optional": {
       "show_author_socials": false
