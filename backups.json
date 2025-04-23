@@ -30,6 +30,11 @@
       "id": "votsz_backup",
       "name": "votsz's Backup",
       "author": "votsz"
+    },
+    {
+      "id": "votsz_direct",
+      "name": "votsz's Direct Backup",
+      "author": "votsz"
     }
   ]
 }
