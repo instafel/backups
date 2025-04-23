@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v0",
-    "backup_version": 1,
+    "version_name": "v1",
+    "backup_version": 2,
     "author": "votsz",
-    "changelog": "aaa",
+    "changelog": "#votsz's_backup_instadirect\n\n* Backup focused on the use of Direct\n* can't remove videos and posts on the home screen, notes, so don't focus on that\n* Storys Removed from home screen\n* Blends and camera icon removed \n* All new features in Direct are enabled (Less the notes) \n\n⚠️ After applying the backup, change this flag \"panavision nav3 tab 2\" for an end point to remove the profile tab. ",
     "name": "votsz's Direct Backup",
-    "last_updated": "21.04.2025",
+    "last_updated": "23.04.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
