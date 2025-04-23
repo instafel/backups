@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "v0",
+    "backup_version": 1,
+    "author": "votsz",
+    "changelog": "aaa",
+    "name": "votsz's Direct Backup",
+    "last_updated": "21.04.2025",
+    "description": "Focused on direct!",
+    "optional": {
+      "show_author_socials": false
+    },
+    "optional_values": {
+      "author_socials": null
+    }
+  }
+}
