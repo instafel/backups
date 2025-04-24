@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13",
-    "backup_version": 6,
+    "version_name": "v13hotfix",
+    "backup_version": 7,
     "author": "patrickozdag",
-    "changelog": "\"centered tabs with nav bar\" is enabled for better reels/friends tab look\napplied more quality improvements by @votsz (see \"https://t.me/c/2131577917/34335/90660\" for exact flags)\napplied app optimizations by @votsz (see \"https://t.me/c/2131577917/34335/98297\" for exact flags)",
+    "changelog": "mandatory fix\ndisabled \"show timestamp in account handle\" to prevent crash while reading reel caption ",
     "name": "Burak's Instafel Backup",
-    "last_updated": "21.04.2025",
+    "last_updated": "24.04.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
