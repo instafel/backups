@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v14hotflix",
-    "backup_version": 5,
+    "version_name": "v15",
+    "backup_version": 6,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n* \"notes teen led moments\" enabled (It should not work for a while)\n* Valentine's Day Vinyl Removed \n\n(I recommend enabling automatic backup update)",
+    "changelog": "#votsz's_backup\n\n* \"notes teen led moments\" enabled (This time he is enabled🫠 )\n* New Close Friends icon in the stories \n* New look in the Add to Stories tab \n* \"multiple profile pictures\" Changed  \n* \"igd android message long press ui\" Actived\n* \"interactions story reply types\" Deactivated (Non-functional)",
     "name": "votsz's Backup",
-    "last_updated": "24.04.2025",
+    "last_updated": "26.04.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
     "optional": {
       "show_author_socials": false
