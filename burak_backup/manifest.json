@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13hotfix",
-    "backup_version": 7,
+    "version_name": "v14",
+    "backup_version": 8,
     "author": "patrickozdag",
-    "changelog": "mandatory fix\ndisabled \"show timestamp in account handle\" to prevent crash while reading reel caption ",
+    "changelog": "\"story android close friends pill parity\" is enabled\n\"mute activity bubbles\" is enabled\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "24.04.2025",
+    "last_updated": "26.04.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
