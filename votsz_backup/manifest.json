@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15hotflix",
-    "backup_version": 7,
+    "version_name": "v15hotflix2",
+    "backup_version": 8,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n* \"igd android twinbox\" Disabled (He was causing a crash, then being enabled again)",
+    "changelog": "#votsz's_backup\n\n* \"igd android twinbox\" Enable\n\n(Come back this version: https://t.me/instafel/25742/101091)",
     "name": "votsz's Backup",
-    "last_updated": "27.04.2025",
+    "last_updated": "28.04.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
     "optional": {
       "show_author_socials": false
