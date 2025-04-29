@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v17_hotfix",
-    "backup_version": 19,
+    "version_name": "v18",
+    "backup_version": 20,
     "author": "iamzainnnn",
-    "changelog": "*Enabled prism font.\n*Enabled search tab audio previews.\n*You can now record video with the volume keys.\n*Now you will be able to see the camera icon in the feed gallery.\n*Updated suggested reels design on feed.\n*Updated hype interactions.\n*Enhanced carousel peek elements.\n*Updated some designs.\n*Redesigned comments author badge\n*Brought back stories cube animation.\n*Brought back reels fast playback.\n*Brought back timed polls in reels post.\n*Redesigned some elements.\n*Some minor changes.\n*Fixed some issues and glitches.",
+    "changelog": "- Enabled swipeable navigation tabs.\n(Now you can swipe between the tabs.)\n- Enabled story storylines\n(Probably it's not working yet.)\n- Enabled full screen reels.\n- Enabled friends tab in reels.\n- Enabled rounded corners while sharing feed posts to the story.\n- Enabled prism direct icon.\n- Enabled stickers in the comments.\n- Enabled account switcher in the notifications tab.\n- Enabled new music notes vinyl.\n- Enhanced animation while adding a profile picture.\n- Enabled watch and comment on reels clip.\n- Enabled stories tray in following.\n- Enabled google photos in album picker.\n- Enabled ai edit in stories postcap toolbar.\n- Enabled add to spotify on stories.\n- Enabled reels tab in location page.\n- Updated floaty comments design.\n- Updated meta ai chat interface.\n- Updated some button design.\n- Updated notes format button design.\n- Updated some icon designs.\n- Updated some UI elements.\n- Changed header position.\n- Changed profile position in reels clip.\n- Enhanced haptic feedback.\n- Disabled valentine flags.\n- Simplified reels more menu.\n- Fixed unavailable reels issue.\n- Fixed some weird UI.\n- Brought back the group filter in dm.\n- Disabled unnecessary things.\n- Disabled non skippable ads.\n- Removed unavailable flags.\n- Fixed some minor bugs and issues and improved it for a better experience.",
     "name": "Zain's Backup",
-    "last_updated": "13.04.2025",
+    "last_updated": "29.04.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
