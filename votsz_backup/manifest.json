@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15hotflix2",
-    "backup_version": 8,
+    "version_name": "v16",
+    "backup_version": 9,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n* \"igd android twinbox\" Enable\n\n(Come back this version: https://t.me/instafel/25742/101091)",
+    "changelog": "#votsz's_backup\n\n* \"views on search android\" enable\n* \"reels draft to direct\" enable\n* \"music picker transparency\" enable \n* \"groups sharesheet search\" enable\n* \"samsung lockscreen shortcut\" Changed \n* \"notes location note pin icon color change\" Enabled\n* \"nsx nearby spaces\" Configured (If in your area it is available, just activate the flag)\n* \"open carousel\" Changed\n* \"search reels subtab autoplay\" Enabled\n* \"camera android zoom video v2\" Enabled\n* \"camera android reels motion photo\" Enabled\n* \"camera android video preview stabilisation\" Enabled\n* \"igd android twinbox\" Temporarily disabled",
     "name": "votsz's Backup",
-    "last_updated": "28.04.2025",
+    "last_updated": "30.04.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
     "optional": {
       "show_author_socials": false
