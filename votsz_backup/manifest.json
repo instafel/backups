@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15hotflix",
-    "backup_version": 11,
+    "version_name": "v16hotflixx",
+    "backup_version": 12,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n* \"igd android twinbox\" Disabled (He was causing a crash, then being enabled again)",
+    "changelog": "#votsz's_backup\n\n* \"igd instamadillo for optional e2ee\" Enabled\n* \"reels android profile in ufi\" Changed\n* \"mmc ux autofill background\" Enabled\n* \"'mute activity bubbles\" Enabled\n* Fixed the crash when opening a message by notifications (If it continues, let me know) \n\n(You can report bugs tagging me to make them better)",
     "name": "votsz's Backup",
     "last_updated": "01.05.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
