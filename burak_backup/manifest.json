@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15hotfix2",
-    "backup_version": 11,
+    "version_name": "v16",
+    "backup_version": 12,
     "author": "patrickozdag",
-    "changelog": "disabled \"transparent status bar\" to prevent the bug which creates a huge space above reels/friends row when you open a reel from a story",
+    "changelog": "fixed mute activity bubbles\ndisabled \"reels tap to pause smashable mute\" because it was causing bubbles not showing in some scenarios\ndisabled \"transparent status bar\" to prevent the bug which creates a huge space above reels/friends row when you open a reel from a story\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "01.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
