@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v11",
-    "backup_version": 11,
+    "version_name": "v12",
+    "backup_version": 12,
     "author": "nightx24",
-    "changelog": "* Enabled the option to import photos from Google Photos.\n\n* Redesigned the Reels direct share reply bar and Send icon.\n\n* Added a setting for Likes visibility (you can control who can see your likes).\n\n* Changed Notes audience from \"Followers you follow back\" to \"Friends.\"\n\n* Enabled the Archive option in profiles (long-press your shared media to archive).\n\n* Redesigned the Notes format button.\n\n* Enabled Auto Reshare to Story (when you post a Reel, it automatically shares to your Story too).\n\n* Added the option to change Content Preferred Languages (functionality may not be fully stable yet).\n\n* Brought back the old airplane icon for Direct messages.\n\n* Enabled the new airplane icon appearance across the app.\n\n* Fixed AI-related image creation issues in Direct.\n\n* Enabled rounded corners for Stories feed reshares.\n\n* Simplified the Reels overflow Interested options",
+    "changelog": "* Removed unnecessary flags\n\n* Enabled Royalty-Free Music tab\n\n* Updated UI elements for a fresh look\n\n* Enabled Reels tab under location\n\n* Replaced Twinbox bottom layout with a top filter layout (due to issues with the bottom layout)\n\n* Enabled coin flip animation on profile picture\n\n* Redesigned several icons\n\n* Added ability to watch Reels while viewing comments\n\n* Improved overall config stability\n\nIf you encounter any bugs, feel free to report them!",
     "name": "Night-X's Backup",
-    "last_updated": "19.04.2025",
+    "last_updated": "01.05.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
