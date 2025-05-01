@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15",
-    "backup_version": 9,
+    "version_name": "v15hotfix",
+    "backup_version": 10,
     "author": "patrickozdag",
-    "changelog": "enabled prism font\nstory pogs are smaller now\nenabled new interaction icons\nenabled new reels ui like tiktok\nenabled auto background generation when you share a post on your story\nenabled new profile share card ui\nsome other ui tweaks which i forgot\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "fixed mute activity bubbles\ndisabled \"reels tap to pause smashable mute\" because it was causing bubbles not showing in some scenarios\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "01.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
