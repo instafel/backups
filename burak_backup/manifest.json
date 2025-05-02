@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v16hotfix2",
-    "backup_version": 14,
+    "version_name": "v17",
+    "backup_version": 15,
     "author": "patrickozdag",
-    "changelog": "disabled notes icon redesign\nreverted back to default font again\nfixed weird follow icon location in reels in latest release\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "increased the value of \"scrubber gesture exclusion height dp\" to make it easy to slide\ndisabled notes icon redesign\nreverted back to default font again\nfixed weird follow icon location in reels in latest release\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "02.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
