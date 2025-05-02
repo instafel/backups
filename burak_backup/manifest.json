@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v16",
-    "backup_version": 12,
+    "version_name": "v16hotfix",
+    "backup_version": 13,
     "author": "patrickozdag",
-    "changelog": "fixed mute activity bubbles\ndisabled \"reels tap to pause smashable mute\" because it was causing bubbles not showing in some scenarios\ndisabled \"transparent status bar\" to prevent the bug which creates a huge space above reels/friends row when you open a reel from a story\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "disabled notes icon redesign\nreverted back to default font again\nfixed weird follow icon location in reels in latest release\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "01.05.2025",
+    "last_updated": "02.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
