@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v16hotflixx",
-    "backup_version": 12,
+    "version_name": "v17",
+    "backup_version": 13,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n* \"igd instamadillo for optional e2ee\" Enabled\n* \"reels android profile in ufi\" Changed\n* \"mmc ux autofill background\" Enabled\n* \"'mute activity bubbles\" Enabled\n* Fixed the crash when opening a message by notifications (If it continues, let me know) \n\n(You can report bugs tagging me to make them better)",
+    "changelog": "#votsz's_backup\n\n* \"notes spotify contextual sharing\" Activated (Not yet functional)\n* \"story interactions hype Close friends\" Enabled\n* \"igd android inbox ff ia\" Changed\n* \"camera android post motion photo\" Enabled (Not yet functional)\n* \"nme ig dev igfbidv2\" changed\n* \"channels hd media\" Enabled\n* \"new serp discovery grid\" changed\n* \"reels android profile in ufi\" Changed",
     "name": "votsz's Backup",
-    "last_updated": "01.05.2025",
+    "last_updated": "03.05.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and  Stable",
     "optional": {
       "show_author_socials": false
