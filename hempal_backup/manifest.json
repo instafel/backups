@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v0",
-    "backup_version": 1,
+    "version_name": "v12",
+    "backup_version": 2,
     "author": "hemk651",
-    "changelog": "example changelog",
+    "changelog": "Here's @hemk651's backup, recreated to reduce size and remove expired flags.",
     "name": "Hem's Backup",
-    "last_updated": "30.04.2025",
+    "last_updated": "04.05.2025",
     "description": "Here's @hemk651's backup, recreated to reduce size and remove expired flags!",
     "optional": {
       "show_author_socials": false
