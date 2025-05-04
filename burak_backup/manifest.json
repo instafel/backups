@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v18",
-    "backup_version": 17,
+    "version_name": "v19",
+    "backup_version": 18,
     "author": "patrickozdag",
-    "changelog": "disabled \"crosspost stories to whatsapp fbidv2\" to make the \"highlights\" button appear again instead of \"whatsapp\" button in the shortcuts of your story\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "disabled square pogs on gallery toolbar redesign\nenabled reels long press to expand caption\nenabled outlines for stories (which is known as stroke font)\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "03.05.2025",
+    "last_updated": "04.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
