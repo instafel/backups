@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v19",
-    "backup_version": 18,
+    "version_name": "v20",
+    "backup_version": 19,
     "author": "patrickozdag",
-    "changelog": "disabled square pogs on gallery toolbar redesign\nenabled reels long press to expand caption\nenabled outlines for stories (which is known as stroke font)\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "disabled tiktok-like reels redesign ui because it has some issues related to follow icon's location\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "04.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
