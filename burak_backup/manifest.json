@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v20",
-    "backup_version": 20,
+    "version_name": "v21",
+    "backup_version": 21,
     "author": "patrickozdag",
-    "changelog": "disabled tiktok-like reels redesign ui because it has some issues related to follow icon's location\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "disabled \"reels watch and comment\" because it breaks opening comments\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "08.05.2025",
+    "last_updated": "09.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
