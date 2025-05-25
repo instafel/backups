@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v12",
-    "backup_version": 2,
+    "version_name": "v13",
+    "backup_version": 3,
     "author": "hemk651",
-    "changelog": "Here's @hemk651's backup, recreated to reduce size and remove expired flags.",
+    "changelog": "Here's backup by @hemk651\n \n  New fonts and text effects  \n  Comment sharing  \n  Doodles in chat composer  \n  New countdown sticker  \n  Chat section filters  \n  Notes haptic feedback  \n  New explore peak  \n– Expired flags removed.",
     "name": "Hem's Backup",
-    "last_updated": "04.05.2025",
+    "last_updated": "25.05.2025",
     "description": "Here's @hemk651's backup, recreated to reduce size and remove expired flags!",
     "optional": {
       "show_author_socials": false
