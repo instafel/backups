@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v21",
-    "backup_version": 21,
+    "version_name": "v22",
+    "backup_version": 22,
     "author": "patrickozdag",
-    "changelog": "disabled \"reels watch and comment\" because it breaks opening comments\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "\"custom heads up view\" is disabled\n\"grid peek behavior redesign\" is enabled\n\"notes creation bundle\" is enabled\n\"should auto scroll to front of tray\" is enabled\n\"text inventory expansion h1 2025 enable debug effect\" is enabled\n\"secret reel creation alpha\" is enabled\n\"reshare comments\" is enabled\n\"comment longpress updates\" is enabled\n\"notes haptics\" is enabled \n\"flig special moments yearbook\" is enabled\n\"igd btg doodles\" is enabled\n\"graduation countdown sticker\" is enabled\n\"ig4a camera navigation isolation swipe activity feed entrypoint enabled\" is enabled\n\"client profile bio mention control\" is enabled\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "09.05.2025",
+    "last_updated": "25.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
