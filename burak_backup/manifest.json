@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v23",
-    "backup_version": 23,
+    "backup_version": 24,
     "author": "patrickozdag",
-    "changelog": "enabled \"enable level 33\" to fix comments quick reply emoji bar\nenabled \"timestamp in header left\"\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "enabled \"enable level 33\" to fix comments quick reply emoji bar\nenabled \"timestamp in header left\"\nenabled new reels ui again, now it has no bugs at all\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "27.05.2025",
     "description": "Minimalistic, modernized, clean, functional!",
