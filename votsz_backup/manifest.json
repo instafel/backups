@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v17",
-    "backup_version": 14,
+    "version_name": "111",
+    "backup_version": 15,
     "author": "votsz",
-    "changelog": "aaa",
+    "changelog": null,
     "name": "votsz's Backup",
-    "last_updated": "09.05.2025",
+    "last_updated": "29.05.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
