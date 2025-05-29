@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2",
-    "backup_version": 3,
+    "version_name": "v3",
+    "backup_version": 4,
     "author": "votsz",
-    "changelog": "#votsz's_backup_instadirect\n\n* I increased the character capacity in the notes.\n* I put the blends back in\n* New design in the creation of notes\n* Close Friends indicator in the notes\n* Improvements and features that I had forgotten to implement in this backup. \n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 3\" for an end point to remove the profile tab.",
+    "changelog": "#votsz_backup_instadirect\n\n■ igd btg doodles Enabled\n■ xav ig android switcher fdid Changed\n■ feed dsa header nav Enabled\n■ navigation refresh Changed\n■ clips direct reshare autoplay Changed\n\n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 3\" for an end point to remove the profile tab. ",
     "name": "votsz's Direct Backup",
-    "last_updated": "04.05.2025",
+    "last_updated": "29.05.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
