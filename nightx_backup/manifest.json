@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v12",
-    "backup_version": 12,
+    "version_name": "v13",
+    "backup_version": 13,
     "author": "nightx24",
-    "changelog": "* Removed unnecessary flags\n\n* Enabled Royalty-Free Music tab\n\n* Updated UI elements for a fresh look\n\n* Enabled Reels tab under location\n\n* Replaced Twinbox bottom layout with a top filter layout (due to issues with the bottom layout)\n\n* Enabled coin flip animation on profile picture\n\n* Redesigned several icons\n\n* Added ability to watch Reels while viewing comments\n\n* Improved overall config stability\n\nIf you encounter any bugs, feel free to report them!",
+    "changelog": "• Enabled Dark Mode with AMOLED theme\n\n• Removed Reels Stack \n\n• Enabled Comment Reshare feature\n\n• Updated Comment Long-Press Menu for improved usability\n\n• Introduced New Fonts for Stories\n\n• Added New Stickers for Stories\n\n• Added Friends Tab to Reels\n\n• Enabled Floating Comments in the Friends tab\n\n• Fixed minor bugs and improved overall UI performance",
     "name": "Night-X's Backup",
-    "last_updated": "01.05.2025",
+    "last_updated": "01.06.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
