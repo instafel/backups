@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v18",
-    "backup_version": 20,
+    "backup_version": 21,
     "author": "votsz",
-    "changelog": "Test without Changelog ",
+    "changelog": "#votsz's_backup\n\n■ Some changes to Instagram browsing.\n\n■ Implementation of new story and reel commands in backup.\n\n■ The backup became a little lighter with unnecessary flag removal.\n\n■ Bugs and problems fixed",
     "name": "votsz's Backup",
     "last_updated": "02.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
