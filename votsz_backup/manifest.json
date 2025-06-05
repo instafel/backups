@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v18",
-    "backup_version": 21,
+    "version_name": "v18h",
+    "backup_version": 22,
     "author": "votsz",
-    "changelog": "#votsz's_backup\n\n■ Some changes to Instagram browsing.\n\n■ Implementation of new story and reel commands in backup.\n\n■ The backup became a little lighter with unnecessary flag removal.\n\n■ Bugs and problems fixed",
+    "changelog": "#votsz_backup\n\n■ profile pfp ideas Enabled\n■ profile overflow menu redesign Enabled\n■ Instagram browsing has been modified\n■ Bug of fixed profile pictures\n■ Removed the new menu from the stories (some did not like it or could not use certain features) ",
     "name": "votsz's Backup",
-    "last_updated": "02.06.2025",
+    "last_updated": "05.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
