@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v18h",
-    "backup_version": 22,
+    "version_name": "v19",
+    "backup_version": 23,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ profile pfp ideas Enabled\n■ profile overflow menu redesign Enabled\n■ Instagram browsing has been modified\n■ Bug of fixed profile pictures\n■ Removed the new menu from the stories (some did not like it or could not use certain features) ",
+    "changelog": "#votsz_backup\n\n■ screenshot reshare Enabled\n■ high quality upload setting fbid Enabled\n■ igd usernames Enabled\n■ igd android calling buttons config Enabled\n■ igd android media viewer replies Enabled\n■ stories android video trimmer Enabled",
     "name": "votsz's Backup",
-    "last_updated": "05.06.2025",
+    "last_updated": "08.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
