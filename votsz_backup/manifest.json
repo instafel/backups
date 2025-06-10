@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v19",
-    "backup_version": 23,
+    "version_name": "v19h",
+    "backup_version": 24,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ screenshot reshare Enabled\n■ high quality upload setting fbid Enabled\n■ igd usernames Enabled\n■ igd android calling buttons config Enabled\n■ igd android media viewer replies Enabled\n■ stories android video trimmer Enabled",
+    "changelog": "#votsz_backup\n\n■ grid peek behavior redesign Enabled\n■ stories video sticker migration Changed",
     "name": "votsz's Backup",
-    "last_updated": "08.06.2025",
+    "last_updated": "10.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
