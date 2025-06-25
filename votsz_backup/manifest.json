@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v19h2",
-    "backup_version": 25,
+    "version_name": "v20",
+    "backup_version": 26,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ sps toolbar redesign Disable (It was not possible to use certain resources with this enabled)\n■ Some changes made to some commands ",
+    "changelog": "#votsz_backup\n\n■ sps toolbar redesign Enabled (Now the resources are working)\n■ saved in profile Enabled\n■ muse android text sticker Enabled\n■ stories internal only improvements Enabled\n■ audio browser m5 Changed\n■ notes teen led moments Changed\n■ iv video scrubber Changed\n■ ig4a friend lane Changed\n■ reposts Chamged\n■ igd android store stickers Changed\n■ notes music notes like animation Enabled\n■ igd android animated stickers perf Enabled\n■ igd android message long press ui Disabled",
     "name": "votsz's Backup",
-    "last_updated": "14.06.2025",
+    "last_updated": "25.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
