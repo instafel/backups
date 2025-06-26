@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v3",
-    "backup_version": 4,
+    "version_name": "v4",
+    "backup_version": 5,
     "author": "votsz",
-    "changelog": "#votsz_backup_instadirect\n\n■ igd btg doodles Enabled\n■ xav ig android switcher fdid Changed\n■ feed dsa header nav Enabled\n■ navigation refresh Changed\n■ clips direct reshare autoplay Changed\n\n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 3\" for an end point to remove the profile tab. ",
+    "changelog": "#votsz_backup_instadirect\n\n■ notes teen led moments Changed\n■ audio browser m5 Changed\n■ navigation refresh Changed\n■ notes music notes like animation Enabled\n■ stories android video trimmer Enabled\n■ igd usernames Enabled \n■ profile overflow menu redesign Enabled\n■ video autoplay egress setup Enabled\n■ grid peek behavior redesign Enabled\n■ notes creation bundle Enabled\n■ text inventory expansion h1 2025 Enabled\n■ notes haptics Enabled\n■ saved in profile Enabled\n■ carousel edit after sharing Enabled\n■ unship profile empty reels tab Enabled\n■ nf swipe actions Enabled\n■ muse android text sticker Enabled\n■ story android close friends pill parity Enabled \n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 3\" for an end point to remove the profile tab.",
     "name": "votsz's Direct Backup",
-    "last_updated": "29.05.2025",
+    "last_updated": "26.06.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
