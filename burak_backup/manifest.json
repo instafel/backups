@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v24",
-    "backup_version": 26,
+    "version_name": "v25",
+    "backup_version": 27,
     "author": "patrickozdag",
-    "changelog": "enabled \"reels watch and comment\" again, now it works without any issues\ndisabled \"enable su animation\" to fix mismatched profile pictures on account suggestions\ndisabled \"camera navigation isolation swipe activity feed entrypoint enabled\"\ndisabled \"should change album art ui\"\nenabled \"profile pfp ideas\"\nenabled \"profile overflow menu redesign\"\nenabled \"remove gradient background\"\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "\"notes music notes like animation\" is enabled\n\"muse android text sticker\" is enabled\n\"stories android video trimmer\" is enabled \n\"high quality upload setting fbid\" is enabled\n\"empty story tray su redesign\" is enabled\nsome other changes which i don't remember\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "05.06.2025",
+    "last_updated": "26.06.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
