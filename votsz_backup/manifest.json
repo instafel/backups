@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v20h",
-    "backup_version": 27,
+    "version_name": "v21",
+    "backup_version": 28,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ client search meta ai integration new Changed\n■ sharing genai prototypes Enabled\n■ story storylines Enabled\n■ ig4a camera navigation isolation Changed\n■ stories inspiration longer reel reshares Changed (Bug fixed in publish in the stories) ",
+    "changelog": "#votsz_backup\n\n■ igd android media viewer replies Changed\n■ stories ai edit Enabled\n■ reels pip Disabled\n■ lyric notes Changed\n■ profile highlights to grid Changed\n■ iv video scrubber Changed",
     "name": "votsz's Backup",
-    "last_updated": "25.06.2025",
+    "last_updated": "30.06.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
