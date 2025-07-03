@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v19",
-    "backup_version": 22,
+    "version_name": "v19hotfix",
+    "backup_version": 23,
     "author": "iamzainnnn",
-    "changelog": "- Enabled new fonts and effects.\n- Changed timestamps position in feed posts.\n- Redesigned account switcher.\n- Enabled comment reshare feature.\n- Enabled new self note menu.\n- Enabled new explore grid peek ui.\n- Enabled new animations.\n- Enabled unlockable reels feature.\n(Not functional yet)\n- Enabled bio mention control.\n- Enabled doodles in direct message.\n(Not functional yet)\n- Enabled new countdown stickers.\n- Enabled notes haptics.\n- Enabled new comments menu.\n- Enabled reply with a reel option in comment context menu.(For public accounts)\n- Enabled royalty free tab in audio browser.\n- Enabled comments filtering.\n- Enabled community chats.\n- Enhanced prism designs.\n- Enabled reels draft duplicate option.\n- Enabled reels picture in picture.\n- Enabled quiz add-on in publish screen.\n- Enabled reshare to story in publish screen.\n- Enabled multi select in archives\n- Updated reels video editor tools.\n- Updated some elements icon.\n- Changed mute icon position in reels.\n- Disabled ai suggestions in direct search bar.\n- Disabled unnecessary flags.\n- Fixed weird follow button ui in reels.\n- Fixed some minor bugs.\n\nPrevious changelogs :- https://t.me/instafel/8828/102967",
+    "changelog": "- Fixed app opening issue",
     "name": "Zain's Backup",
-    "last_updated": "05.06.2025",
+    "last_updated": "03.07.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
