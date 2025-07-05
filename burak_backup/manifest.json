@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v25hotfix",
-    "backup_version": 28,
+    "version_name": "v26",
+    "backup_version": 29,
     "author": "patrickozdag",
-    "changelog": "\"enable elevated carousel scrubbing\" is disabled\n\"new serp discovery grid\" is disabled to prevent crashes on search\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "fixed friendly map display\nenabled “story viewer ui refresh”\nremoved unnecessary flags\nother minor changes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "26.06.2025",
+    "last_updated": "05.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
