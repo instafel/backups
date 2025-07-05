@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v26",
-    "backup_version": 31,
+    "backup_version": 32,
     "author": "patrickozdag",
-    "changelog": "enabled \"friends map tile in dm\"\nremoved unnecessary flags\nother minor changes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "enabled \"friends map tile in dm\"\nenabled a different date timestamp type on feed\nremoved unnecessary flags\nother minor changes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
     "last_updated": "05.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
