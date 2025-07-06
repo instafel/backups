@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v26",
-    "backup_version": 32,
+    "version_name": "v26hotfix",
+    "backup_version": 33,
     "author": "patrickozdag",
-    "changelog": "enabled \"friends map tile in dm\"\nenabled a different date timestamp type on feed\nremoved unnecessary flags\nother minor changes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "fixed the bug where you cannot interact with the caption and the username of a reel\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "05.07.2025",
+    "last_updated": "06.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
