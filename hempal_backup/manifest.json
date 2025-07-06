@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13",
-    "backup_version": 3,
+    "version_name": "v14",
+    "backup_version": 4,
     "author": "hemk651",
-    "changelog": "Here's backup by @hemk651\n \n  New fonts and text effects  \n  Comment sharing  \n  Doodles in chat composer  \n  New countdown sticker  \n  Chat section filters  \n  Notes haptic feedback  \n  New explore peak  \n– Expired flags removed.",
+    "changelog": "Here's backup by @hemk651\n\nSend to Meta AI feature    \nMove remix feature into more menu   \nFix message drawer visibility   \nSaved button in profile   \nShow duration of reels in scrubber   \nShare only to profile   \nRedesigned notification settings   \nRosalia text font   \nFix empty space   \nUnlockable avatar sticker   \nNew refresh animation in stories tray   \nAdd location button in creator   \nReply to sent medias from viewer   \nCalling button icon variants   \nCut videos in stories   \nNew creator toolbar design   \nUnable to send video in DM fixed  \nFriends map / nsx nearby spaces -",
     "name": "Hem's Backup",
-    "last_updated": "25.05.2025",
+    "last_updated": "06.07.2025",
     "description": "Here's @hemk651's backup, recreated to reduce size and remove expired flags!",
     "optional": {
       "show_author_socials": false
