@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v21",
-    "backup_version": 28,
+    "version_name": "v22",
+    "backup_version": 29,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ igd android media viewer replies Changed\n■ stories ai edit Enabled\n■ reels pip Disabled\n■ lyric notes Changed\n■ profile highlights to grid Changed\n■ iv video scrubber Changed",
+    "changelog": "#votsz_backup\n\n■ profile tagged to grid Enabled\n■ story viewer ui refresh Enabled\n■ Bugs Fixed",
     "name": "votsz's Backup",
-    "last_updated": "30.06.2025",
+    "last_updated": "06.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
