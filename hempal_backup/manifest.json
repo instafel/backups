@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v14",
-    "backup_version": 4,
+    "backup_version": 5,
     "author": "hemk651",
-    "changelog": "Here's backup by @hemk651\n\nSend to Meta AI feature    \nMove remix feature into more menu   \nFix message drawer visibility   \nSaved button in profile   \nShow duration of reels in scrubber   \nShare only to profile   \nRedesigned notification settings   \nRosalia text font   \nFix empty space   \nUnlockable avatar sticker   \nNew refresh animation in stories tray   \nAdd location button in creator   \nReply to sent medias from viewer   \nCalling button icon variants   \nCut videos in stories   \nNew creator toolbar design   \nUnable to send video in DM fixed  \nFriends map / nsx nearby spaces -",
+    "changelog": "Here's backup by @hemk651\n\n- Send to Meta AI feature  enabled \n- Move remix feature into more menu enabled  \n- Fix message drawer visibility enabled \n- Saved button in profile enabled \n- Show duration of reels in scrubber enabled  \n- Share only to profile enabled \n- Redesigned notification settings enabled  \n- Rosalia text font  enabled \n- Fix empty space enabled \n- Unlockable avatar sticker enabled \n- New refresh animation in stories tray enabled  \n- Add location button in creator enabled \n- Reply to sent medias from viewer enabled  \n- Calling button icon variants enabled  \n- Cut videos in stories enabled  \n- New creator toolbar design enabled \n- Unable to send video in DM fixed \n- Friends map / nsx nearby spaces fully remove",
     "name": "Hem's Backup",
     "last_updated": "06.07.2025",
     "description": "Here's @hemk651's backup, recreated to reduce size and remove expired flags!",
