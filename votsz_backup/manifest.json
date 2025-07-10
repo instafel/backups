@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v22",
-    "backup_version": 29,
+    "version_name": "v23",
+    "backup_version": 30,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ profile tagged to grid Enabled\n■ story viewer ui refresh Enabled\n■ Bugs Fixed",
+    "changelog": "#votsz_backup\n\n■ gallery album picker menu Changed\n■ threads chimes thid Changed\n■ threads chimes Changed\n■ autoreshare incompatibility dialog Enabled\n■ ignx nf craft fixes Enabled\n■ ai fonts android Enabled\n■ comments bulk hide Enabled\n■ ig4a notification subscription setting Enabled\n■ igd android twinbox Enabled\n■ stories android live pog blending Changed\n■ reels watch and comment Changed \n■ feed haptic feedback Enabled \n■ ig4a feed long press gesture handle Changed\n■ rifu optimizations v2 Changed\n■ ig4a rifu new ui Changed\n■ comment filtering Enabled\n■ Among others...",
     "name": "votsz's Backup",
-    "last_updated": "06.07.2025",
+    "last_updated": "10.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
