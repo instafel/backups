@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v13",
-    "backup_version": 13,
+    "version_name": "v14",
+    "backup_version": 14,
     "author": "nightx24",
-    "changelog": "• Enabled Dark Mode with AMOLED theme\n\n• Removed Reels Stack \n\n• Enabled Comment Reshare feature\n\n• Updated Comment Long-Press Menu for improved usability\n\n• Introduced New Fonts for Stories\n\n• Added New Stickers for Stories\n\n• Added Friends Tab to Reels\n\n• Enabled Floating Comments in the Friends tab\n\n• Fixed minor bugs and improved overall UI performance",
+    "changelog": "• Redesigned Notification Settings\n\n• Redesigned Notification Swipe Action Icons\n\n• Updated Stories Section\n↳ Larger profile icons\n↳ Rounded corners\n\n• New Font Enabled for post text\n\n• Added Total Duration to video scrubber\n\n• Enabled Like Animation for Music Notes\n\n• Posts shared to Profile only won’t appear in others' Feed\n\n• Saved Posts section enabled in Profile view\n\n• Improved overall config stability for smoother experience\n\n• Minor UI refinements and background optimizations",
     "name": "Night-X's Backup",
-    "last_updated": "01.06.2025",
+    "last_updated": "12.07.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
