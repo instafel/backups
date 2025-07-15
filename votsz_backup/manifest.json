@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v23",
-    "backup_version": 30,
+    "version_name": "v24",
+    "backup_version": 31,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ gallery album picker menu Changed\n■ threads chimes thid Changed\n■ threads chimes Changed\n■ autoreshare incompatibility dialog Enabled\n■ ignx nf craft fixes Enabled\n■ ai fonts android Enabled\n■ comments bulk hide Enabled\n■ ig4a notification subscription setting Enabled\n■ igd android twinbox Enabled\n■ stories android live pog blending Changed\n■ reels watch and comment Changed \n■ feed haptic feedback Enabled \n■ ig4a feed long press gesture handle Changed\n■ rifu optimizations v2 Changed\n■ ig4a rifu new ui Changed\n■ comment filtering Enabled\n■ Among others...",
+    "changelog": "#votsz_backup\n\n■ igd android media viewer replies Changed\n■ igd android media preview fbid Disabled\n■ igd android gallery long press menu Enabled\n■ custom heads up view Disabled (There is a bug that makes you crass when you open notifications)\n■ friendly bubble mix and match Enabled\n■ igd metaai composer entrypoint Enabled\n■ meta ai ig android music assistant Enabled\n■ broadcast channel fbidv2 Changed\n■ broadcast chat v2 Changed\n■ stories animated cutout collages Changed\n■ meta ai voice Changed (Fixed bug related to trying to access a community through the profile)",
     "name": "votsz's Backup",
-    "last_updated": "10.07.2025",
+    "last_updated": "15.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
