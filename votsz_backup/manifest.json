@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v24h",
-    "backup_version": 32,
+    "backup_version": 33,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ igd metaai composer entrypoint Changed\n■ genai ai filter Enabled",
+    "changelog": "#votsz_backup\n\n■ igd metaai composer entrypoint Changed\n■ genai ai filter Enabled\n■ igd customized pinned threads Enabled",
     "name": "votsz's Backup",
     "last_updated": "16.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
