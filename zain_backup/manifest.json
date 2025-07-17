@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v20",
-    "backup_version": 25,
+    "version_name": "v21",
+    "backup_version": 26,
     "author": "iamzainnnn",
-    "changelog": "- Enabled new music notes-like animation.\n- Enabled new Stories UI.\n- Enabled screenshot reshare.\n- Enabled voice and sticker replies in media reply bar.\n- Updated Stories toolbar design.\n- Enabled Stories video trimmer.\n- Enabled high quality settings.\n- Enabled customisable Notes.\n- Enabled set post as profile picture.\n- Enabled blur background for Stories.\n- Enabled Add to Spotify button for Music Notes.\n- Enabled Saved button in profile.\n- Enabled new Rosalia font.\n- Enabled lyrics for “Listening Now” notes.\n- Enabled customize option for already sent media.\n- Enabled Remix button in simplified more menu.\n- Enabled swipe down to dismiss clips.\n- Enabled branded themes.\n- Changed GIFs and Stickers provider.\n- Updated media previews in the Direct gallery (long press to access).\n- Disabled Map icon in Direct.\n- Disabled Reels PiP (temporarily).\n- Updated notification settings page.\n- Updated video editor toolbars.\n- Updated old flags.\n- Updated designs.\n- Fixed Stories reply bar.\n- Fixed some minor bugs. (If you find any, just tell me)",
+    "changelog": "- Enabled suggested music in stories\n- Added secret notes (feature not functional yet)\n- Introduced suggestions filter in the Explore tab\n- Added effects button to the story camera sidebar\n- Updated notification swipe action icon\n- Restored the notification bell icon\n- Improved direct photo upload quality\n- Refined audio attribution format\n- Updated and clarified timestamps\n- Refreshed outdated flags\n- Disabled footer mute controls\n- Disabled full-screen Reels view\n- Resolved \"Reels unavailable\" issue\n- Fixed minor bugs and improved performance\n- Some internal changes (details not remembered)",
     "name": "Zain's Backup",
     "last_updated": "17.07.2025",
     "description": "This backup maked for the newest features!",
