@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v27",
-    "backup_version": 34,
+    "version_name": "v27hotfix",
+    "backup_version": 35,
     "author": "patrickozdag",
-    "changelog": "enabled ai fonts\nenabled new direct media preview\ndisabled share on whatsapp button on stories\nfixed up some stuff related to friends map\nchanged the value of reels viewer shadows/outline\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "enabled special treatment for non9x16 to fix reels watch and comment ui visual bug on the latest release",
     "name": "Burak's Instafel Backup",
-    "last_updated": "13.07.2025",
+    "last_updated": "17.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
