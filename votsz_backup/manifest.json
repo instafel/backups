@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v24h",
-    "backup_version": 33,
+    "version_name": "v25",
+    "backup_version": 34,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ igd metaai composer entrypoint Changed\n■ genai ai filter Enabled\n■ igd customized pinned threads Enabled",
+    "changelog": "#votsz_backup\n\n■ direct notification preview control Enabled (I disabled unintentionally. )\n■ igx action bar service replacement Changed\n■ igd drag and drop Enabled\n■ profile tagged to grid Changed\n■ igd customized pinned threads Disabled temporarily\n■ direct reels reply bar background color Enabled\n■ shortcuts Changed\n■ professional account reachability settings v2 Enabled\n■ broadcast channel fbidv2 Changwd\n■ super share v3 Changed\n■ story interactions hype Changed\n■ project muse Enabled\n■ ig4a friend lane Changed\n■ stories prism location Enabled",
     "name": "votsz's Backup",
-    "last_updated": "16.07.2025",
+    "last_updated": "17.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
