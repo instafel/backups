@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v25",
-    "backup_version": 34,
+    "version_name": "v26",
+    "backup_version": 35,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ direct notification preview control Enabled (I disabled unintentionally. )\n■ igx action bar service replacement Changed\n■ igd drag and drop Enabled\n■ profile tagged to grid Changed\n■ igd customized pinned threads Disabled temporarily\n■ direct reels reply bar background color Enabled\n■ shortcuts Changed\n■ professional account reachability settings v2 Enabled\n■ broadcast channel fbidv2 Changwd\n■ super share v3 Changed\n■ story interactions hype Changed\n■ project muse Enabled\n■ ig4a friend lane Changed\n■ stories prism location Enabled",
+    "changelog": "#votsz_backup\n\n■ camera ve stia Enabled\n■ genai ai filter Changed\n■ stories camera tools in gallery toolbar Enabled\n■ fast reels fbidv2 Changed\n■ igx action bar service replacement Disabled (Icon Bell back)\n■ notes teen led moments Changed\n■ story likes heart emitter redesign Enabled\n■ groups upleveling likes Enabled\n■ igx android app value Changed",
     "name": "votsz's Backup",
-    "last_updated": "17.07.2025",
+    "last_updated": "19.07.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
