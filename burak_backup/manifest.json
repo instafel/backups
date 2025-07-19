@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v27hotfix",
-    "backup_version": 35,
+    "version_name": "v28",
+    "backup_version": 36,
     "author": "patrickozdag",
-    "changelog": "enabled special treatment for non9x16 to fix reels watch and comment ui visual bug on the latest release",
+    "changelog": "disabled \"vertical toobar squares\" which is enabled by the server for some users, because it makes the location button conflicted with the new toolbar design \n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "17.07.2025",
+    "last_updated": "19.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
