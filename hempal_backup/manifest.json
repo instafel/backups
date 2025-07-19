@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v14",
-    "backup_version": 5,
+    "version_name": "v15",
+    "backup_version": 6,
     "author": "hemk651",
-    "changelog": "Here's backup by @hemk651\n\n- Send to Meta AI feature  enabled \n- Move remix feature into more menu enabled  \n- Fix message drawer visibility enabled \n- Saved button in profile enabled \n- Show duration of reels in scrubber enabled  \n- Share only to profile enabled \n- Redesigned notification settings enabled  \n- Rosalia text font  enabled \n- Fix empty space enabled \n- Unlockable avatar sticker enabled \n- New refresh animation in stories tray enabled  \n- Add location button in creator enabled \n- Reply to sent medias from viewer enabled  \n- Calling button icon variants enabled  \n- Cut videos in stories enabled  \n- New creator toolbar design enabled \n- Unable to send video in DM fixed \n- Friends map / nsx nearby spaces fully remove",
+    "changelog": "- Fixed reels video glitching issue when opening comments\n- Added throwback feature in feed\n- Added Artificial Intelligence font\n- Added Notifications tab with modernized layout\n- Added rounded corners to suggested reels in feed with hide option\n- Added updated notification swipe action icons\n- Added new direct gallery media previews\n- Added tracing effect to font in stories\n- Added rounded corners and thicker progress bar in stories",
     "name": "Hem's Backup",
-    "last_updated": "06.07.2025",
+    "last_updated": "19.07.2025",
     "description": "Here's @hemk651's backup, recreated to reduce size and remove expired flags!",
     "optional": {
       "show_author_socials": false
