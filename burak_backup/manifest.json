@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v28",
-    "backup_version": 36,
+    "version_name": "v28hotfix",
+    "backup_version": 37,
     "author": "patrickozdag",
-    "changelog": "disabled \"vertical toobar squares\" which is enabled by the server for some users, because it makes the location button conflicted with the new toolbar design \n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "fixed some important bugs coming with the latest release. if you still have bugs, simply report them in the group.\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "19.07.2025",
+    "last_updated": "26.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
