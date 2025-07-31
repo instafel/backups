@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v28hotfix",
-    "backup_version": 37,
+    "version_name": "v29",
+    "backup_version": 38,
     "author": "patrickozdag",
-    "changelog": "fixed some important bugs coming with the latest release. if you still have bugs, simply report them in the group.\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "disabled \"reels watch and comment\" to fix visual rendering issues on reels\nenabled \"stories music duration\" and increased the max duration value to 60\nsome other fixes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "26.07.2025",
+    "last_updated": "31.07.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
