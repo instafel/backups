@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v26",
-    "backup_version": 35,
+    "version_name": "v27h",
+    "backup_version": 36,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ camera ve stia Enabled\n■ genai ai filter Changed\n■ stories camera tools in gallery toolbar Enabled\n■ fast reels fbidv2 Changed\n■ igx action bar service replacement Disabled (Icon Bell back)\n■ notes teen led moments Changed\n■ story likes heart emitter redesign Enabled\n■ groups upleveling likes Enabled\n■ igx android app value Changed",
+    "changelog": "#votsz_backup\n\n■ explore zoom animation Enabled\n■ photo comment Enabled\n■ story comments as captions Modified\n■ endcard impressions test Disabled\n■ fast reels fbidv2 Modified\n■ sharesheet 4pog Enabled\n■ ai characters consumption Enabled\n■ caa ig4a login fallback behavior Modified\n■ ig4a friend lane Modified\n■ shortcuts Enabled\n■ stories ai edit Modified\n■ stories music sticker duration igfbid Enabled \n■ ai characters consumption Modified \n■ igd android gallery long press menu Modified\n■ story interactions hype Modified \n■ notes music consumption Modified \n■ stories made for you Enabled\n■ contacts share sheet Enabled\n■ rings Enabled \n■ groups sharesheet search In sharesheet search update Disabled (Bug crash)\n■ multiple profile pictures Modified\n■ stories mentions incremental 2025 Enabled\n■ ig4a location sharing story Modified\n■ notes connected notes Enabled\n■ new serp discovery grid Enabled\n■ repost Modified\n■ igss hscroll ranking Modified\n■ nsx nearby spaces Modified \n■ igd android disable stickers Enabled",
     "name": "votsz's Backup",
-    "last_updated": "19.07.2025",
+    "last_updated": "07.08.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
