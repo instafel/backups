@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v5",
-    "backup_version": 6,
+    "version_name": "v6",
+    "backup_version": 7,
     "author": "votsz",
-    "changelog": "#votsz_backup_instadirect\n\n■ igd android twinbox Enabled\n■ meta ai direct Changed\n■ profile card fbidv2 Enabled\n■ ig4a notification subscription setting Enabled\n■ sps toolbar redesign Enabled\n■ profile pfp ideas Enabled\n■ igd android media viewer replies Changed\n■ notes music consumption Changed\n■ feed haptic feedback Enabled\n■ camera android reels text expansion Enabled\n■ ai fonts Enabled\n■ low light mode capture Disabled \n■ es sharesheet ui updates Enabled\n■ es adaptive sharesheet Enabled\n■ shortcuts Enabled\n■ reels android profile in ufi Enabled\n■ ignx nf craft fixes Enabled\n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 3\" for an end point to remove the profile tab. ",
+    "changelog": "#votsz_backup_instadirect\n\n■ project muse Enabled\n■ igd android media viewer replies Modified\n■ notes music consumption Modified\n■ stories music sticker duration igfbid Enabled\n■ custom heads up view Disabled\n■ sharesheet 4pog Enabled\n■ stories mention reshare redesign Enabled\n■ groups upleveling likes Enabled \n■ story likes heart emitter redesign Enabled\n■ stories prism location Enabled\n■ igd drag and drop Enabled\n■ igd android gallery long press menu Enabled",
     "name": "votsz's Direct Backup",
-    "last_updated": "13.07.2025",
+    "last_updated": "07.08.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
