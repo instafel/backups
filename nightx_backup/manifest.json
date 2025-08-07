@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v14",
-    "backup_version": 14,
+    "version_name": "v15",
+    "backup_version": 15,
     "author": "nightx24",
-    "changelog": "• Redesigned Notification Settings\n\n• Redesigned Notification Swipe Action Icons\n\n• Updated Stories Section\n↳ Larger profile icons\n↳ Rounded corners\n\n• New Font Enabled for post text\n\n• Added Total Duration to video scrubber\n\n• Enabled Like Animation for Music Notes\n\n• Posts shared to Profile only won’t appear in others' Feed\n\n• Saved Posts section enabled in Profile view\n\n• Improved overall config stability for smoother experience\n\n• Minor UI refinements and background optimizations",
+    "changelog": "Changelog \n\n◾️Account Shortcuts\n• Enabled account shortcuts for quick access\n\n◾️Reels\n• Enabled reels filter carousel and trending reels section\n\n◾️Comments\n• Added bulk comment hide option\n\n◾️Tags\n• Enabled long-press options on tags\n\n◾️Repost\n• Redesigned repost interface\n• Enabled repost animation\n• Added long-press like button\n\n◾️Gestures\n• Enabled swipe-to-dismiss gesture\n\n◾️Fonts\n• Enabled AI-generated font support\n\n◾️UI Improvements\n• Redesigned primary buttons\n• Redesigned individual account notification layout\n\n◾️Stories\n• Added option to increase music duration in stories\n\n◾️ Gallery\n• Enabled long-press menu in gallery\n\n◾️Performance\n• Improved overall user experience",
     "name": "Night-X's Backup",
-    "last_updated": "12.07.2025",
+    "last_updated": "07.08.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
