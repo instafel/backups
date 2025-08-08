@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v22hotfix",
-    "backup_version": 29,
+    "backup_version": 30,
     "author": "iamzainnnn",
-    "changelog": "- Fixed Weird media reply bar layout.\n- Fixed camera in Direct reply bar camera.\n- Updated few flags.",
+    "changelog": "- Enabled pencil icon for customisable notes.\n- Disabled quicksnap feature.\n- Brought back camera icon in direct.\n- Fixed Weird media reply bar layout.\n- Fixed camera in Direct reply bar camera.\n- Updated few flags.",
     "name": "Zain's Backup",
     "last_updated": "08.08.2025",
     "description": "This backup maked for the newest features!",
