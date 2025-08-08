@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v22hotfix",
-    "backup_version": 28,
+    "backup_version": 29,
     "author": "iamzainnnn",
     "changelog": "- Fixed Weird media reply bar layout.\n- Fixed camera in Direct reply bar camera.\n- Updated few flags.",
     "name": "Zain's Backup",
