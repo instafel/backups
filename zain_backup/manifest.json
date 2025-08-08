@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v22",
-    "backup_version": 27,
+    "version_name": "v22hotfix",
+    "backup_version": 28,
     "author": "iamzainnnn",
-    "changelog": "- Quicksnap has been enabled (not functional yet, long-press the Direct icon to try it out).\n- New bubble-style layout added for story comments.\n- Discovery grid refreshed with a cleaner look.\n- Gallery half-sheet introduced in Direct for easier access.\n- Low light mode capture is now supported.\n- Repost button included in the sharesheet.\n- Stories now support 2x speed playback.\n- Story music duration extended to 60 seconds.\n- Inbox layout simplified for a smoother experience.\n- Old \"Write with Meta AI\" layout has been restored.\n- Avatars have been removed from comments.\n- Reels watch and comment features are temporarily disabled.\n- Repost experience has been improved.\n- Stories AI edit feature updated.\n- Old flags have been refreshed.\n- Minor bugs have been fixed.",
+    "changelog": "- Fixed Weird media reply bar layout.\n- Fixed camera in Direct reply bar camera.\n- Updated few flags.",
     "name": "Zain's Backup",
-    "last_updated": "07.08.2025",
+    "last_updated": "08.08.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
