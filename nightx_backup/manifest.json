@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v15",
-    "backup_version": 15,
+    "version_name": "v16",
+    "backup_version": 16,
     "author": "nightx24",
-    "changelog": "Changelog \n\n◾️Account Shortcuts\n• Enabled account shortcuts for quick access\n\n◾️Reels\n• Enabled reels filter carousel and trending reels section\n\n◾️Comments\n• Added bulk comment hide option\n\n◾️Tags\n• Enabled long-press options on tags\n\n◾️Repost\n• Redesigned repost interface\n• Enabled repost animation\n• Added long-press like button\n\n◾️Gestures\n• Enabled swipe-to-dismiss gesture\n\n◾️Fonts\n• Enabled AI-generated font support\n\n◾️UI Improvements\n• Redesigned primary buttons\n• Redesigned individual account notification layout\n\n◾️Stories\n• Added option to increase music duration in stories\n\n◾️ Gallery\n• Enabled long-press menu in gallery\n\n◾️Performance\n• Improved overall user experience",
+    "changelog": "Changelog \n\n🛠 Improvements\n\n• Improved AI font settings.\n\n• Improved Twinbox performance.\n\n\n✨ New Features\n\n• Enabled animation for the profile picture editing section.\n\n• Enabled folder reordering in direct \n\n• Added pencil icon for customisable notes.\n\n• Stories now support 2× speed playback.\n\n• Introduced gallery half-sheet in Direct for easier access.\n\n• Added new bubble-style layout for story comments.\n\n\n🐞 Fixes\n\n• Fixed Request tab — you can now see request messages.\n\n\n🎨 UI/UX Changes\n\n• Redesigned toast notifications.",
     "name": "Night-X's Backup",
-    "last_updated": "07.08.2025",
+    "last_updated": "09.08.2025",
     "description": "backup description",
     "optional": {
       "show_author_socials": false
