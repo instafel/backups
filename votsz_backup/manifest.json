@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v29",
-    "backup_version": 38,
+    "version_name": "v29hotflix",
+    "backup_version": 39,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ clips direct reshare autoplay Modified \n■ igx foundation litho stories tray Disabled\n■ rings Modified \n■ stories animated cutout collages Modified\n■ profile highlights to grid Modified \n■ comments updated composer Enabled\n■ notes connected notes Enabled\n■ reels tap to pause organic Modified \n■ search client multi turn search Enabled\n■ reels android hands free mode Modified \n■ craft Enabled\n■ follow list craft Enabled\n■ profile android seen state h2 2025 Enabled\n■ threads chimes Modified \n■ threads chimes thid Modified \n■ ig4a location sharing story Modified \n■ story interactions hype Modified \n■ igd threaded replies Enabled\n■ ai profiles Enabled\n■ stories highlights in feed Enabled\n■ story highlights Enabled\n■ friend map likes android Modified \n■ Friend map Modified \n■ explore video placeholder optimization Enabled",
+    "changelog": "#votsz_backup\n\n■ Bugs fixed",
     "name": "votsz's Backup",
     "last_updated": "19.08.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
