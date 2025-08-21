@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v22hotfix",
-    "backup_version": 30,
+    "version_name": "v23",
+    "backup_version": 31,
     "author": "iamzainnnn",
-    "changelog": "- Enabled pencil icon for customisable notes.\n- Disabled quicksnap feature.\n- Brought back camera icon in direct.\n- Fixed Weird media reply bar layout.\n- Fixed camera in Direct reply bar camera.\n- Updated few flags.",
+    "changelog": "- Restored the old stories opening animation.  \n- Restored the pencil icon for customizable notes.  \n- Reintroduced the new vinyl design.  \n- Re-enabled Reels watch and comment.  \n- Enabled the new comment composer design.  \n- Added blur effect while sharing mentioned stories.  \n- Enabled the bottom toolbar in the Direct media editor.  \n- Added AI Restyle button in the Direct media viewer.  \n- Introduced option to pin self comments.  \n- Added voice message button in the sharesheet composer (not functional yet).  \n- Improved haptic feedback.  \n- Fixed video playback issues.  \n- Resolved stories 2x speed bug.  \n- Fixed header glitch when opening stories.  \n- Removed loading effect while sharing to Direct.  \n- Cleaned up unwanted elements in Reels captions.  \n- Fixed unexpected behaviour of Explore posts.  \n- Partially fixed reactions bug in DMs.  \n- Fixed minor bugs.  \n- Updated old flags.  \n- Overall improvements and optimizations.",
     "name": "Zain's Backup",
-    "last_updated": "08.08.2025",
+    "last_updated": "21.08.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
