@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v30",
-    "backup_version": 39,
+    "version_name": "v30hotfix",
+    "backup_version": 40,
     "author": "patrickozdag",
-    "changelog": "enabled chat filters\nenabled redesigned progress bar on the top of the stories\nenabled the scale animation while closing the stories\nenabled reposting animation and modified some repost related stuff\ndisabled activity bubbles in feed, now it only appears on reels \ndisabled tiktok-like reels ui, because it makes the repost button not appearing\nsome other changes and fixes\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
+    "changelog": "fixed the bug which prevents opening instafel menu by default in my backup\ndisabled filled tab icons\n\n*please enable the \"enable auto update\" option in the backup library to access the latest features/fixes as soon as they're released.*",
     "name": "Burak's Instafel Backup",
-    "last_updated": "14.08.2025",
+    "last_updated": "22.08.2025",
     "description": "Minimalistic, modernized, clean, functional!",
     "optional": {
       "show_author_socials": false
