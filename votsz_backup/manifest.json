@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v30",
-    "backup_version": 40,
+    "version_name": "v30hotflix",
+    "backup_version": 41,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ high quality upload setting fbid Modified \n■ stories viewer viewpager2 Enabled\n■ story highlights Modified \n■ stories android bigger pogs Modified \n■ ai rewrite Modified \n■ imagine create Modified \n■ photo comment Disabled \n■ meta ai ig android music assistant Disabled \n■ igd threaded replies Disabled \n■ stories originality music first format Modified \n■ reply bar stories Modified \n■ profile quiet broadcasting Modified \n■ repost Modified\n■ igd android media resolution Modified \n■ elevate friending Enabled\n■ stories 2x speed Modified",
+    "changelog": "#votsz_backup\n\n■ ai characters consumption Modified \n■ carousel edit after sharing Modified \n■ stories android video trimmer Disabled",
     "name": "votsz's Backup",
-    "last_updated": "24.08.2025",
+    "last_updated": "29.08.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
