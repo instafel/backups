@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v6",
-    "backup_version": 7,
+    "version_name": "v7",
+    "backup_version": 8,
     "author": "votsz",
-    "changelog": "#votsz_backup_instadirect\n\n■ project muse Enabled\n■ igd android media viewer replies Modified\n■ notes music consumption Modified\n■ stories music sticker duration igfbid Enabled\n■ custom heads up view Disabled\n■ sharesheet 4pog Enabled\n■ stories mention reshare redesign Enabled\n■ groups upleveling likes Enabled \n■ story likes heart emitter redesign Enabled\n■ stories prism location Enabled\n■ igd drag and drop Enabled\n■ igd android gallery long press menu Enabled",
+    "changelog": "#votsz_backup_instadirect\n\n■ Backup uses \"votsz_backup\" as a base now. \n■ navigation refresh Modified\n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 2\" for an end point to remove the profile tab. ",
     "name": "votsz's Direct Backup",
-    "last_updated": "07.08.2025",
+    "last_updated": "30.08.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
