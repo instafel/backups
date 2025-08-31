@@ -2,9 +2,9 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v31",
-    "backup_version": 43,
+    "backup_version": 44,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ ig4a compatibility patch for large screen devices Enabled\n■  friend map larger hidden location radius Enabled\n■ friend map real unified map Enabled\n■ igcf share channel update Enabled\n■ ig4a insights redesign Enabled\n■ igd btg doodles Modified \n■ profile highlights to grid Modified \n■ nsx nearby spaces Modified \n■ just watched button v2 Enabled\n■ ai fonts android Modified \n■ threads chimes Modified \n■ ai characters consumption Modified \n■ story highlights Modified",
+    "changelog": "#votsz_backup\n\n■ ig4a compatibility patch for large screen devices Enabled\n■  friend map larger hidden location radius Enabled\n■ friend map real unified map Enabled\n■ igcf share channel update Enabled\n■ ig4a insights redesign Enabled\n■ igd btg doodles Modified \n■ profile highlights to grid Modified \n■ nsx nearby spaces Modified \n■ just watched button v2 Enabled\n■ ai fonts android Modified \n■ threads chimes Modified \n■ ai characters consumption Modified \n■ story highlights Modified\n■ notes reply sheet redesign Enabled",
     "name": "votsz's Backup",
     "last_updated": "31.08.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
