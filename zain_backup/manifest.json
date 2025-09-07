@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v23hotfix",
-    "backup_version": 33,
+    "version_name": "v24",
+    "backup_version": 34,
     "author": "iamzainnnn",
-    "changelog": "- Forcely disabled \"for you\" title.\n- Removed reshare text from reels.\n- Fixed some minor bugs related to stories.",
+    "changelog": "🆕 Added  \n- Voice messages can now be recorded for up to 10 minutes.  \n- You can now save doodles as stickers.  \n- Enabled the new pull-to-refresh animation in Reels.  \n- Enabled the new reply sheet design for text notes.  \n- Enabled the new avatar viewer.  \n\n🔄 Updated / Restored  \n- Reels 2x speed lockup feature has been brought back.  \n- Swipe to Direct has been restored.  \n- Video notes have been brought back.  \n- Grid reorder feature is now functional.\n- Old tab icons have been brought back. \n- Enhanced Stories tray font.  \n- Swipeable tabs have been temporarily removed.  \n\n🛠 Fixed  \n- Fixed Direct media editor toolbar issue.  \n- Fixed GIFs related issues.  \n- Fixed album art issue on Reels.  \n- Fixed sound overlapping issues.  \n- Fixed minor bugs and overall stability improvements.",
     "name": "Zain's Backup",
-    "last_updated": "22.08.2025",
+    "last_updated": "07.09.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
