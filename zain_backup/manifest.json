@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v24hotfix",
-    "backup_version": 35,
+    "version_name": "v24quickfix",
+    "backup_version": 36,
     "author": "iamzainnnn",
-    "changelog": "- Fixed issues related to cutouts\n- Updated blocked profile ui.\n\nFull Changelogs :- \nhttps://t.me/instafel/8828/134198\n",
+    "changelog": "- Fixed reels unavailable issue.",
     "name": "Zain's Backup",
-    "last_updated": "07.09.2025",
+    "last_updated": "11.09.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
