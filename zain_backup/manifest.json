@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v24quickfix",
-    "backup_version": 36,
+    "version_name": "v24hotfix2",
+    "backup_version": 37,
     "author": "iamzainnnn",
-    "changelog": "- Fixed reels unavailable issue.",
+    "changelog": "- GIF issue fixed in comments.\n- Enabled expandable notes in direct.",
     "name": "Zain's Backup",
-    "last_updated": "11.09.2025",
+    "last_updated": "12.09.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
