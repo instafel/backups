@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v25",
-    "backup_version": 38,
+    "version_name": "v25hotfix",
+    "backup_version": 39,
     "author": "iamzainnnn",
-    "changelog": "🆕 Added / Enabled  \n- A new preview design for one-time view media in DMs.  \n- New icon for the Explore tab.  \n- Notes “Watching Now” feature enabled.  \n- New reply composer for Notes enabled.  \n- Just watched indicator enabled.  \n- Original audio tab enabled in Notes audio browser.  \n\n🔄 Updated / Restored  \n- The plus button in Direct Composer is now working properly.  \n- Message tab in camera has been brought back.  \n- Account profile picture in Reels has been brought back.  \n- Enhanced Clips tab lane fonts.  \n- Updated HD toggle icon in Direct Gallery.  \n- Updated old flags.  \n\n🚫 Disabled  \n- Prism fonts.  \n- Interested / Not Interested button in Reels.  \n\n🛠 Fixed  \n- Fixed issues while opening notifications.  \n- Fixed some minor issues.",
+    "changelog": "- Fixed notes music issue.",
     "name": "Zain's Backup",
-    "last_updated": "15.09.2025",
+    "last_updated": "17.09.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
