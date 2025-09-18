@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v25hotfix",
-    "backup_version": 39,
+    "version_name": "v25hotfix2",
+    "backup_version": 40,
     "author": "iamzainnnn",
-    "changelog": "- Fixed notes music issue.",
+    "changelog": "- Tried to fix the story glitch (it's not as bad as before i guess)",
     "name": "Zain's Backup",
-    "last_updated": "17.09.2025",
+    "last_updated": "18.09.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
