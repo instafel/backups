@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v32",
-    "backup_version": 45,
+    "version_name": "v32hotflix",
+    "backup_version": 46,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ stories viewer viewpager2 Disabled (Too many bugs) \n■ igds android motion Enabled\n■ reels tap to pause organic Modified \n■ stories live photo Enabled \n■ friend map trending locations Enabled\n■ igd inbox simplification android Modified \n■ camera android dynamic media graph migration Enabled\n■ ai characters consumption Modified \n■ navigation refresh Modified \n■ likes sheet media insights entrypoint Enabled\n■ story insights dashboard tabs Enabled\n■ comment update pin limit Modified \n■ discovery search everywhere entrypoint Enabled\n■ friendly bubble long press menu Modified \n■ ig4a reels caption sheet Enabled\n■ notes tray consumption Enabled (Disable on bases below 399)\n• Category QuickSnap Modified \n■ igd tools discovery improvement Enabled\n■ timed polls Enabled\n■ multiple profile pictures Modified \n■ nux add username banner Enabled\n■ settings for professionals section title Enabled\n■ clips translated audio dubbing Modified \n■ igds prism 2 iconography android Enabled\n■ nme deka benefits igfbidv2 Modified \n■ boomerang ui refactor Enabled\n■ to wa crossposting Enabled\n■ photo comment Enabled \n■ screenshot reshare Modified \n■ notes connected notes Enabled\n■ camera bitrate increase Modified \n■ notes upload retries Modified \n■ rings Modified \n■ profile android tag management Modified \n■ live external link Modified \n■ notes music consumption Modified",
+    "changelog": "#votsz_backup\n\n■ story to story reshares Enabled \n■ studio quick snap android Modified \n■ notes music consumption Modified \n■ stories viewer craft Modified \n■ stories mentions incremental 2025 Modified \n■ story reshare with stickers server burnin Modified \n■ stories ai edit Disabled\n■ sharing genai prototypes Disabled\n■ feed gallery simplification Enabled\n■ nsx nearby spaces Enabled",
     "name": "votsz's Backup",
-    "last_updated": "19.09.2025",
+    "last_updated": "20.09.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
