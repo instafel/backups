@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v32hotflix",
-    "backup_version": 46,
+    "version_name": "v33",
+    "backup_version": 47,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ story to story reshares Enabled \n■ studio quick snap android Modified \n■ notes music consumption Modified \n■ stories viewer craft Modified \n■ stories mentions incremental 2025 Modified \n■ story reshare with stickers server burnin Modified \n■ stories ai edit Disabled\n■ sharing genai prototypes Disabled\n■ feed gallery simplification Enabled\n■ nsx nearby spaces Enabled",
+    "changelog": "#votsz_backup\n\n■ ig4a notification name updates Enabled\n■ igd btg doodles Modified \n■ igd inbox simplification android Modified \n■ notes reply cta Modified \n■ hscroll sms to messages Enabled\n■ igd meta ai task Enabled\n■ multimodal Enabled\n■ igd reply reminder Enabled\n■ publish screen quiz Modified \n■ igd media new entry points Disabled \n■ ig4a notes preinflation Disabled (Bug crash in direct)\n■ sps toolbar redesign It's back 🙂 \n■ igd media ephemeral context menu Enabled \n■ I'm looking for the solution for the charging spinner in Direct. ",
     "name": "votsz's Backup",
-    "last_updated": "20.09.2025",
+    "last_updated": "26.09.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
