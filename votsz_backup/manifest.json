@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34",
-    "backup_version": 49,
+    "version_name": "v34hotflix",
+    "backup_version": 50,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ follow request management Enabled\n■ creator stories schedule story Enabled\n■ igd cdau android reply reminder Modified \n■ ai studio chat Modified \n■ igd android welcome video Enabled \n■ igd android riff Disabled \n■ friend map device upsells Enabled \n■ friend map media incremental delivery Enabled \n■ mute content on map Enabled \n■ friend map multi device Enabled \n■ ig4a friend map location hub Enabled \n■ friend map creator safety Enabled \n■ friend map awareness dialog Enabled \n■ reels timestamp comments Enabled \n■ ig4a friend map custom places Enabled \n■ creator story replies Enabled\n■ friend map global launch Disabled \n■ ca android trials Enabled\n■ ig4a reels caption sheet Disabled",
+    "changelog": "■ ig4a friend lane Modified ",
     "name": "votsz's Backup",
     "last_updated": "29.09.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
