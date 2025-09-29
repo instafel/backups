@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v33",
-    "backup_version": 48,
+    "version_name": "v34",
+    "backup_version": 49,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ ig4a notification name updates Enabled\n■ igd btg doodles Modified \n■ igd inbox simplification android Modified \n■ notes reply cta Modified \n■ hscroll sms to messages Enabled\n■ igd meta ai task Enabled\n■ multimodal Enabled\n■ igd reply reminder Enabled\n■ publish screen quiz Modified \n■ igd media new entry points Disabled \n■ ig4a notes preinflation Disabled (Bug crash in direct)\n■ sps toolbar redesign It's back 🙂 \n■ igd media ephemeral context menu Enabled \n■ I'm looking for the solution for the charging spinner in Direct. \n■ mv pets Disabled (thanks @iamzainnnn 🫶🏼🙂)",
+    "changelog": "#votsz_backup\n\n■ follow request management Enabled\n■ creator stories schedule story Enabled\n■ igd cdau android reply reminder Modified \n■ ai studio chat Modified \n■ igd android welcome video Enabled \n■ igd android riff Disabled \n■ friend map device upsells Enabled \n■ friend map media incremental delivery Enabled \n■ mute content on map Enabled \n■ friend map multi device Enabled \n■ ig4a friend map location hub Enabled \n■ friend map creator safety Enabled \n■ friend map awareness dialog Enabled \n■ reels timestamp comments Enabled \n■ ig4a friend map custom places Enabled \n■ creator story replies Enabled\n■ friend map global launch Disabled \n■ ca android trials Enabled\n■ ig4a reels caption sheet Disabled",
     "name": "votsz's Backup",
-    "last_updated": "26.09.2025",
+    "last_updated": "29.09.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
