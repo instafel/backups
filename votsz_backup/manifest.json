@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34hotflix",
-    "backup_version": 50,
+    "version_name": "v35",
+    "backup_version": 51,
     "author": "votsz",
-    "changelog": "■ ig4a friend lane Modified ",
+    "changelog": "#votsz_backup\n\n■ immersive viewer unification Disabled by default\n■ social ufi fbidv2 Modified \n■ notes theme packs Enabled \n■ stories mentions incremental 2025 Modified \n■ ig4a note icebreakers Enabled \n■ story storylines Modified \n■ stories swipe to gallery Enabled \n■ stories creation rounded corners Enabled \n■ new serp discovery grid Modified",
     "name": "votsz's Backup",
-    "last_updated": "29.09.2025",
+    "last_updated": "02.10.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
