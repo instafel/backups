@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v35",
-    "backup_version": 51,
+    "version_name": "v36",
+    "backup_version": 52,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ immersive viewer unification Disabled by default\n■ social ufi fbidv2 Modified \n■ notes theme packs Enabled \n■ stories mentions incremental 2025 Modified \n■ ig4a note icebreakers Enabled \n■ story storylines Modified \n■ stories swipe to gallery Enabled \n■ stories creation rounded corners Enabled \n■ new serp discovery grid Modified",
+    "changelog": "#votsz_backup\n\n■ rings Modified \n■ photo comment Modified \n■ ca android trials Modified\n■ friendly bubble long press menu Modified \n■ notes font customization Enabled \n■ igds android prism overflow sheet Enabled \n■ story interactions hype Modified \n■ ig4a reels caption learn more Enabled \n■ camera android undo redo centralization Modified \n■ homecoming Enabled \n■ blocked profile ui update Enabled\n■ igd android gallery half sheet Modified \n■ multimodal Modified \n■ nsx nearby spaces Modified \n■ igd nicknames Modified \n■ new serp discovery grid Modified \n■ creation guidance Enabled \n■ notes reply sheet like animation Enabled \n■ stories android pog username larger font in tray Enabled \n■ friending center Enabled \n■ profile duration in archive thumbnails Enabled",
     "name": "votsz's Backup",
-    "last_updated": "02.10.2025",
+    "last_updated": "10.10.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
