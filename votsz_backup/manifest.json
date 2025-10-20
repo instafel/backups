@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v36",
-    "backup_version": 52,
+    "version_name": "v37",
+    "backup_version": 53,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ rings Modified \n■ photo comment Modified \n■ ca android trials Modified\n■ friendly bubble long press menu Modified \n■ notes font customization Enabled \n■ igds android prism overflow sheet Enabled \n■ story interactions hype Modified \n■ ig4a reels caption learn more Enabled \n■ camera android undo redo centralization Modified \n■ homecoming Enabled \n■ blocked profile ui update Enabled\n■ igd android gallery half sheet Modified \n■ multimodal Modified \n■ nsx nearby spaces Modified \n■ igd nicknames Modified \n■ new serp discovery grid Modified \n■ creation guidance Enabled \n■ notes reply sheet like animation Enabled \n■ stories android pog username larger font in tray Enabled \n■ friending center Enabled \n■ profile duration in archive thumbnails Enabled",
+    "changelog": "#votsz_backup\n\n■ meta ai cdd comments sheet Enabled \n■ carrera Enabled \n■ ig4a reels caption learn more Modified \n■ flig special moments Modified \n■ ig4a friend lane Modified \n■ igd drag and drop Modified \n■ friend map visits Enabled \n■ story comments as captions Modified \n■ motion photo for boomerang Modified \n■ feed carousel improvement Enabled \n■ stories expiring soon Enabled \n■ pending group adds Enabled \n■ profile unseen post h2 2025 Enabled \n■ navigation refresh Modified \n■ notes connected notes Enabled \n■ publish screen compose migration Enabled \n■ audience cam Disabled \n■ igd threaded replies Enabled",
     "name": "votsz's Backup",
-    "last_updated": "10.10.2025",
+    "last_updated": "20.10.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
