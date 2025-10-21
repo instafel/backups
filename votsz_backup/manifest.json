@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v37",
-    "backup_version": 53,
+    "version_name": "v37hotflix",
+    "backup_version": 54,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ meta ai cdd comments sheet Enabled \n■ carrera Enabled \n■ ig4a reels caption learn more Modified \n■ flig special moments Modified \n■ ig4a friend lane Modified \n■ igd drag and drop Modified \n■ friend map visits Enabled \n■ story comments as captions Modified \n■ motion photo for boomerang Modified \n■ feed carousel improvement Enabled \n■ stories expiring soon Enabled \n■ pending group adds Enabled \n■ profile unseen post h2 2025 Enabled \n■ navigation refresh Modified \n■ notes connected notes Enabled \n■ publish screen compose migration Enabled \n■ audience cam Disabled \n■ igd threaded replies Enabled",
+    "changelog": "#votsz_backup\n\n■ add to story in direct Enabled \n■ stories memories format Enabled \n■ cannes custom app icon Enabled\n■ Bugs fixed",
     "name": "votsz's Backup",
-    "last_updated": "20.10.2025",
+    "last_updated": "21.10.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
