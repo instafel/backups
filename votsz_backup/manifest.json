@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v37hotflix",
-    "backup_version": 54,
+    "backup_version": 55,
     "author": "votsz",
     "changelog": "#votsz_backup\n\n■ add to story in direct Enabled \n■ stories memories format Enabled \n■ cannes custom app icon Enabled\n■ Bugs fixed",
     "name": "votsz's Backup",
