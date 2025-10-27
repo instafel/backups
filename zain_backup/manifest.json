@@ -2,11 +2,11 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v26",
-    "backup_version": 43,
+    "backup_version": 44,
     "author": "iamzainnnn",
     "changelog": "🆕 Added / Introduced  \n- Twinbox introduced for a better chat filter experience.  \n- Shots (Quicknap) feature introduced.  \n- Forward button enabled for audio messages.  \n- Reply to a comment by tapping on it.  \n- Story schedule feature enabled (not functional yet).  \n- Quality-related flags enabled.  \n\n🔄 Updated / Enhanced  \n- Enhanced Stories viewing experience.  \n- Enhanced some animations.  \n- Minor UI enhancements.\n- Updated cutout sticker.  \n- Updated old flags and overall improvements.  \n\n🛠 Fixed  \n- Fixed weird button alignment in post captions.  \n- Fixed Reels post caption toolbar issue.  \n- Fixed crashing issue while opening Reels tab.",
     "name": "Zain's Backup",
-    "last_updated": "01.10.2025",
+    "last_updated": "27.10.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
