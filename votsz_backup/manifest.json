@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v37hotflix",
-    "backup_version": 55,
+    "version_name": "v38_2",
+    "backup_version": 56,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ add to story in direct Enabled \n■ stories memories format Enabled \n■ cannes custom app icon Enabled\n■ Bugs fixed",
+    "changelog": "#votsz_backup\n\n■ igd android cap20 sends 2025 h2 Enabled \n■ notes reply sheet redesign Modified \n■ reposts icon animation Enabled \n■ notes close friends sharing improvements Enabled \n■ follow button in stories viewers list Enabled \n■ stories add yours sticker Enabled \n■ notes expiry improvements Enabled \n■ permissions Modified \n■ notes jetpack compose Enabled \n■ direct games Enabled \n■ notes listening now settings Enabled \n■ reels comment update Enabled \n■ ig4a reels caption learn more Modified \n■ ig4a nux shortcuts Enabled \n■ notes theme packs Modified \n■ early access settings Modified \n■ ig4a nf account switcher Enabled \n■ homecoming Modified \n■ sps toolbar redesign Enabled \n■ ig4a qf loading experience Enabled \n■ posts publish screen decluttering Enabled \n■ story reshare metadata Disabled by default \n■ story to story reshares Modified \n■ reels creator product links Enabled \n■ ig4a notes watching now Modified \n■ pending group adds Modified \n■ notes themes enhancements Modified \n■ comment composer rotate ghost text Enabled \n■ new serp discovery grid Modified \n■ reels timestamp comments Enabled\n■ stories viewer sheet Enabled \n■ flig special moments Modified \n■ homecoming Modified \n■ ig4a location sharing story Modified \n■ growth redesigned nux flow Modified \n■ stories android viewer launch improvements Modified\n■ profile blue dot h2 2025 Enabled \n■ notes themes entrypoint long press on whitespace Enabled \n■ ig4a friend lane Modified \n■ 2025 dsa compliance Enabled",
     "name": "votsz's Backup",
-    "last_updated": "21.10.2025",
+    "last_updated": "20.11.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
