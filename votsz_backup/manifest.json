@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v39",
-    "backup_version": 57,
+    "version_name": "v40",
+    "backup_version": 58,
     "author": "votsz",
-    "changelog": "#votsz_backup\n\n■ notes font customization Modified \n■ ca android trials Modified \n■ notes hyperlinks Enabled \n■ igd sharesheet close friends indicator Enabled \n■ gif notes Enabled \n■ notes tray pagination Enabled \n■ igd media android gallery navigation Enabled \n■ story gallery improvements v3 Enabled \n■ reels save ufi Enabled \n■ notes jetpack compose Modified \n■ to wa crossposting unlinked Enabled \n■ to wa crossposting Modified \n■ notes expiry improvements Modified \n■ live Modified \n■ feed favorites Modified \n■ stories top five besties Enabled \n■ video perf low data mode optimization Enabled \n■ igd media ephemeral context menu Modified \n■ ig4a notes watching now Modified \n■ auto follow back Modified \n■ stories gallery multi select button Enabled \n■ ig4a stories viewer footer comment button alignment Disabled",
+    "changelog": "■ igd inbox account switcher refresh android Enabled \n■ igd typing indicator control Enabled \n■ igd android ax big rocks h1 2025 Modified \n■ nme ig dev igfbidv2 Modified \n■ publish screen in compose Modified \n■ profile edit profile simplification Modified \n■ ig4a empty profile activation card redesign Enabled \n■ ig4a pause notifications on logout v2 Enabled \n■ ig4a nux redesign Modified \n■ ig4a notes power user check Enabled \n■ ig4a notifications nux screen redesign\n■ ig4a reels camera migration Disabled \n■ ig4a schools channels Modified \n■ ig4a share sheet f button Enabled \n■ reels android profile in ufi Modified \n■ igss hscroll ranking Modified \n■ account transparency Enabled \n■ audio music on profile Modified \n■ explore tall grid Modified \n■ feed creation gallery unification Enabled \n■ long press scroll Enabled",
     "name": "votsz's Backup",
-    "last_updated": "23.11.2025",
+    "last_updated": "01.12.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
