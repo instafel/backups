@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v29",
-    "backup_version": 52,
+    "backup_version": 53,
     "author": "iamzainnnn",
     "changelog": "V29 — Changelog\n\n🆕 Added / Introduced  \n- Brought back the bell icon for notifications.  \n- Restored the search bar in Direct to avoid conflicts.  \n- Introduced unsend option for invite chats.  \n- Added highlight option in the Stories toolbar.  \n- Enabled a separate button for Notes theme selection.  \n- Enabled AI voice filters.  \n- Enabled lip-sync option for Stories audio (not functional yet).  \n\n🔄 Updated / Improved  \n- Modified the normal layout in navigation options.  \n- Updated profile message content.  \n- Optimized Reels fetching in Direct.  \n- Brought back the option to reshare Reels to Threads.  \n- Updated AI Studios.  \n- Updated New Year effects flags.  \n- Updated Stories AI restyle.  \n- Updated Stories background color feature.  \n- Updated “Add Yours” feature on Stories.  \n- Updated Stories mention reshare button.  \n- Updated AI fonts.  \n- Updated some UI elements.  \n\n🛠 Fixed  \n- Fixed toggle not enabling issue while posting Reels and posts.  \n- Fixed some minor bugs and stability issues.  \n\n⚙️ Misc  \n- Updated old flags.",
     "name": "Zain's Backup",
