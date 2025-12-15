@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v8",
-    "backup_version": 9,
+    "version_name": "v10",
+    "backup_version": 10,
     "author": "votsz",
-    "changelog": "#votsz_backup_instadirect\n\n■ Backup uses \"votsz_backup\" as a base now. \n\n⚠️ After applying the backup, change this flag \"navigation refresh android tab 2\" for an end point to remove the profile tab. ",
+    "changelog": "■ Backup uses \"votszbackup_v41\" as a base \n\n⚠️ After applying the backup, change this flag \"panavision nav3 tab 3\" for an end point to remove the profile tab. ",
     "name": "votsz's Direct Backup",
-    "last_updated": "04.10.2025",
+    "last_updated": "15.12.2025",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
