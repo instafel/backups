@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v40",
-    "backup_version": 58,
+    "version_name": "v41",
+    "backup_version": 59,
     "author": "votsz",
-    "changelog": "■ igd inbox account switcher refresh android Enabled \n■ igd typing indicator control Enabled \n■ igd android ax big rocks h1 2025 Modified \n■ nme ig dev igfbidv2 Modified \n■ publish screen in compose Modified \n■ profile edit profile simplification Modified \n■ ig4a empty profile activation card redesign Enabled \n■ ig4a pause notifications on logout v2 Enabled \n■ ig4a nux redesign Modified \n■ ig4a notes power user check Enabled \n■ ig4a notifications nux screen redesign\n■ ig4a reels camera migration Disabled \n■ ig4a schools channels Modified \n■ ig4a share sheet f button Enabled \n■ reels android profile in ufi Modified \n■ igss hscroll ranking Modified \n■ account transparency Enabled \n■ audio music on profile Modified \n■ explore tall grid Modified \n■ feed creation gallery unification Enabled \n■ long press scroll Enabled",
+    "changelog": "■ clips translated audio dubbing Modified  \n■ ig4a notes prefetch at push notification Enabled \n■ ig4a notifications setting Enabled \n■ igd android voice msg improvements v2 Modified \n■ stories live photo Modified \n■ discovery search everywhere entrypoint Modified \n■ notes audio browser original audio Enabled \n■ notes close friends sharing improvements Modified \n■ igd inbox fetch optimizations Modified \n■ ig4a notes prefetch at push notification Enabled \n■ notes prompts Modified \n■ notes prompts education Enabled \n■ notes visual effects Modified \n■ quicksnap Modified \n■ friend map fuzzy location sharing Enabled \n■ profile banner notice declarative ui Enabled\n■ direct security alerts Enabled \n■ increase follower count in account linking Enabled \n■ igd pro android saved reply entry point upranking Enabled \n■ direct empty state Modified \n■ igd android riff Enabled \n■ ig4a location sharing story Modified \n■ screenshot reshare Disabled \n■ stories creation suggested music Modified \n■ ai fonts android Modified \n■ stories ai edit Enabled \n■ sharing genai prototypes Enabled \n■ client direct h1 2025 craft Modified \n■ igd android media preview fbid Modified \n■ ig4a iglu touch up migration Modified \n■ camera format unship android Disabled \n■ analytics2 consolidation Disabled \n■ igd android inbox top accounts filter Modified \n■ stories mentions incremental 2025 Modified \n■ story highlights android Enabled \n■ trial scheduling Enabled \n■ igd android reaction engagement Enabled \n■ captions creation Enabled \n■ xe ac entrypoint ig Enabled \n■ reels watch and comment Modified \n■ ig4a reels caption learn more Modified \n■ igds android prism overflow sheet Modified \n■ xav ig 4a switcher f3 uid Enabled  ",
     "name": "votsz's Backup",
-    "last_updated": "01.12.2025",
+    "last_updated": "15.12.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
