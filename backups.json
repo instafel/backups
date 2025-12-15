@@ -2,14 +2,24 @@
   "manifest_version": 1,
   "backups": [
     {
-      "id": "ioannisxirr_instafel",
-      "name": "ioannisxir's Instafel Backup",
-      "author": "ioannisxirouxakis"
-    },
-    {
       "id": "zain_backup",
       "name": "Zain's Backup",
       "author": "iamzainnnn"
+    },
+    {
+      "id": "zain_ailess_backup",
+      "name": "Zain's AI-less Backup",
+      "author": "iamzainnnn"
+    },
+    {
+      "id": "votsz_backup",
+      "name": "votsz's Backup",
+      "author": "votsz"
+    },
+    {
+      "id": "votsz_direct",
+      "name": "votsz's Direct Backup",
+      "author": "votsz"
     },
     {
       "id": "pixelishfr_backup",
@@ -27,19 +37,14 @@
       "author": "patrickozdag"
     },
     {
-      "id": "votsz_backup",
-      "name": "votsz's Backup",
-      "author": "votsz"
-    },
-    {
-      "id": "votsz_direct",
-      "name": "votsz's Direct Backup",
-      "author": "votsz"
-    },
-    {
       "id": "hempal_backup",
       "name": "Hem's Backup",
       "author": "hemk651"
+    },
+    {
+      "id": "ioannisxirr_instafel",
+      "name": "ioannisxir's Instafel Backup",
+      "author": "ioannisxirouxakis"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "manifest": {
+    "version_name": "v0",
+    "backup_version": 1,
+    "author": "iamzainnnn",
+    "changelog": "a.",
+    "name": "Zain's AI-less Backup",
+    "last_updated": "1.1.2025",
+    "description": "This backup maked for the newest features without Meta AI stuffs!",
+    "optional": {
+      "show_author_socials": true
+    },
+    "optional_values": {
+      "author_socials": {
+        "github": "Iamzainnnn"
+      }
+    }
+  }
+}
