@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v40reversed",
-    "backup_version": 60,
+    "version_name": "v41hotflix",
+    "backup_version": 61,
     "author": "votsz",
-    "changelog": "⚠️ Going back to version 40 while looking for a solution for the gallery is not appearing. ",
+    "changelog": "Changelog v41: https://t.me/instafel/8828/149828\n\n■ Fix bug in gallery\n■ stories draft count Enabled \n■ clips fast forward backward Enabled \n■ stories ai transitions Enabled \n■ ig4a reels caption learn more Modified \n■ tya django Enabled \n■ friending craft Modified \n■ friending center Modified \n■ elevate friending Modified \n■ direct group creation reachability Modified \n■ direct group creation improvements Modified \n■ ig4a search preq optimization 2025 h2 Modified \n■ search client multi turn search Modified \n■ compose creation action bar Enabled \n■ notes hyperlinks Modified \n■ imagine stories Modified \n■ fast reels fbidv2 Modified \n■ notes reply sheet redesign Enabled\n■ h2 2025 remix changes Enabled \n■ wwai h2 2025 Disabled \n■ igd quick send Enabled \n■ reels ufi icons update Enabled",
     "name": "votsz's Backup",
-    "last_updated": "17.12.2025",
+    "last_updated": "22.12.2025",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
