@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v1",
-    "backup_version": 2,
+    "version_name": "v2",
+    "backup_version": 3,
     "author": "iamzainnnn",
-    "changelog": "An AI-less version of Zain’s Instafel Backup\nBased on Zain’s Instafel Backup v29.\n\nIf you find anything related to Meta AI, please report it to me so I can remove it completely. 🙂",
+    "changelog": "An AI-less version of Zain’s Instafel Backup\nBased on Zain’s Instafel Backup v30.\n\nIf you find anything related to Meta AI, please report it to me so I can remove it completely. 🙂",
     "name": "Zain's AI-less Backup",
-    "last_updated": "15.12.2025",
+    "last_updated": "28.12.2025",
     "description": "This backup maked for the newest features without Meta AI stuffs!",
     "optional": {
       "show_author_socials": true
