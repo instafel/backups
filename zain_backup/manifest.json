@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v29",
-    "backup_version": 53,
+    "version_name": "v30",
+    "backup_version": 54,
     "author": "iamzainnnn",
-    "changelog": "V29 — Changelog\n\n🆕 Added / Introduced  \n- Brought back the bell icon for notifications.  \n- Restored the search bar in Direct to avoid conflicts.  \n- Introduced unsend option for invite chats.  \n- Added highlight option in the Stories toolbar.  \n- Enabled a separate button for Notes theme selection.  \n- Enabled AI voice filters.  \n- Enabled lip-sync option for Stories audio (not functional yet).  \n\n🔄 Updated / Improved  \n- Modified the normal layout in navigation options.  \n- Updated profile message content.  \n- Optimized Reels fetching in Direct.  \n- Brought back the option to reshare Reels to Threads.  \n- Updated AI Studios.  \n- Updated New Year effects flags.  \n- Updated Stories AI restyle.  \n- Updated Stories background color feature.  \n- Updated “Add Yours” feature on Stories.  \n- Updated Stories mention reshare button.  \n- Updated AI fonts.  \n- Updated some UI elements.  \n\n🛠 Fixed  \n- Fixed toggle not enabling issue while posting Reels and posts.  \n- Fixed some minor bugs and stability issues.  \n\n⚙️ Misc  \n- Updated old flags.",
+    "changelog": "🆕 Added / Enabled  \n- Enabled double-tap forward and backward gestures on Reels.  \n- Enabled drafts count indicator for Stories.  \n- Enabled Stories AI transition feature (not functional yet).  \n- Enabled infinite swipe on feed carousel posts.  \n- You can now quickly share a Reel or post by long-pressing the share icon.  \n- Enabled suggested people while tagging someone on a feed post.  \n- Enabled feed drafts count indicator.  \n- Enabled product links option on the Reels publish screen.  \n- Brought back Quicksnap / Shots / Instants option in the Stories camera.  \n- Enabled group creation from mentioned people in Stories (not functional yet).  \n\n🔄 Updated / Improved  \n- Updated translated audio dubbing for Reels.  \n- Updated settings search bar for better usability.  \n- Updated some UI elements for consistency.  \n- Updated older flags and improved their functionality.  \n\n🪄 Restored  \n- Brought back facepile for Account Center in Settings.  \n- Brought back “Your Algorithm” feature.  \n- Brought back tap-to-pause on Reels in experimental layout.  \n\n🚫 Disabled / Removed  \n- Disabled swipe-to-camera gesture on feed carousel posts.  \n- Removed Tenor as the GIF provider.  \n- Removed the “Add Caption” button from the bottom-left while posting Stories.  \n\n🛠 Fixed  \n- Fixed profile opening issue for mentioned usernames in chats.  \n- Fixed keyboard appearing when opening comments on feed posts.  \n- Fixed missing “See all by creator” option in comments GIF section.  \n- Fixed errors while uploading Stories.  \n- Fixed Quicksnap looping issues.  \n- Fixed weird glitches in Stories progress bar.  \n- Fixed some minor bugs and stability issues.  \n\n📌 Misc  \n- Story button in the Explore tab is now functional across all layouts.",
     "name": "Zain's Backup",
-    "last_updated": "13.12.2025",
+    "last_updated": "28.12.2025",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
