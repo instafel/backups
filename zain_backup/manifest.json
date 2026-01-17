@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v31",
-    "backup_version": 55,
+    "backup_version": 56,
     "author": "iamzainnnn",
     "changelog": "V31 — Changelog\n\n- Removed the annoying like nudge while liking posts or Reels.  \n- Brought back Reels pinch-to-zoom for better control.  \n- Enabled double-tap forward/backward and tap-to-pause in Reels.  \n- Added audio controls directly in the Reels footer.  \n- Improved Reels opening speed, especially inside Direct.  \n- Enabled a smooth zoom effect when opening Reels from Explore.  \n\n- Stories received multiple AI upgrades including edits, transitions, restyle improvements, and background color updates.  \n- Added loading indicators and better feedback during AI operations.  \n- Music experience improved across Stories with longer durations, vinyl UI, Spotify reshares, and mid-card enhancements.  \n\n- Direct messages are now smoother with threaded replies, better inbox filters, and improved sharing sheets.  \n- Sharing got faster with adaptive sheets, easier reposting, and cleaner layouts.  \n\n- UI and animations feel more polished with smoother transitions, cleaner layouts, and refined buttons.  \n- Quiet Mode improvements ensure notifications actually stay quiet when enabled.  \n\n- Fixed crash issues while opening followers/following lists.  \n- Fixed multiple stability issues, animation glitches, and performance drops.  \n- Cleaned up old flags and enabled several under-the-hood improvements.  \n\nBased on v414.0.0.0.10",
     "name": "Zain's Backup",
