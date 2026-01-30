@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v41hotflix",
-    "backup_version": 61,
+    "version_name": "v2026_1",
+    "backup_version": 62,
     "author": "votsz",
-    "changelog": "Changelog v41: https://t.me/instafel/8828/149828\n\n■ Fix bug in gallery\n■ stories draft count Enabled \n■ clips fast forward backward Enabled \n■ stories ai transitions Enabled \n■ ig4a reels caption learn more Modified \n■ tya django Enabled \n■ friending craft Modified \n■ friending center Modified \n■ elevate friending Modified \n■ direct group creation reachability Modified \n■ direct group creation improvements Modified \n■ ig4a search preq optimization 2025 h2 Modified \n■ search client multi turn search Modified \n■ compose creation action bar Enabled \n■ notes hyperlinks Modified \n■ imagine stories Modified \n■ fast reels fbidv2 Modified \n■ notes reply sheet redesign Enabled\n■ h2 2025 remix changes Enabled \n■ wwai h2 2025 Disabled \n■ igd quick send Enabled \n■ reels ufi icons update Enabled",
+    "changelog": "■ collab scheduling Modified \n■ tya django Modified \n■ stories ai transitions Modified \n■ stories local unexpired story in profile Enabled \n■ tablet qr native login Enabled \n■ igd ai themes Enabled \n■ artist reel pinning Enabled \n■ quicksnap Modified\n■ stories android litho migration Modified \n■ story to story reshares Modified \n■ stories spotify reshares Modified \n■ story storylines Modified \n■ draft auto save Enabled \n■ ig4a camera antibanding Enabled \n■ stories internal only improvements Disabled \n■ manus ig profile settings Enabled \n■ aura story viewer Enabled \n■ feed caption post tap Enabled \n■ stories mentions incremental 2025 Modified \n■ ig4a location sharing story Modified \n■ search client serp tabs removal Modified \n■ stories qr scanning Enabled \n■ airwave casting Enabled \n■ ig4a airwave casting Enabled \n■ stories valentines day 2026 Enabled \n■ stories android video trimmer v2 Enabled \n■ aura superlike Enabled \n■ notes audience expansion Enabled \n■ quick snap moods Enabled \n■ friendship surface Enabled \n■ igd android calling buttons config Enabled",
     "name": "votsz's Backup",
-    "last_updated": "22.12.2025",
+    "last_updated": "30.01.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
