@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_1",
-    "backup_version": 62,
+    "version_name": "v2026_1hotflix",
+    "backup_version": 63,
     "author": "votsz",
-    "changelog": "■ collab scheduling Modified \n■ tya django Modified \n■ stories ai transitions Modified \n■ stories local unexpired story in profile Enabled \n■ tablet qr native login Enabled \n■ igd ai themes Enabled \n■ artist reel pinning Enabled \n■ quicksnap Modified\n■ stories android litho migration Modified \n■ story to story reshares Modified \n■ stories spotify reshares Modified \n■ story storylines Modified \n■ draft auto save Enabled \n■ ig4a camera antibanding Enabled \n■ stories internal only improvements Disabled \n■ manus ig profile settings Enabled \n■ aura story viewer Enabled \n■ feed caption post tap Enabled \n■ stories mentions incremental 2025 Modified \n■ ig4a location sharing story Modified \n■ search client serp tabs removal Modified \n■ stories qr scanning Enabled \n■ airwave casting Enabled \n■ ig4a airwave casting Enabled \n■ stories valentines day 2026 Enabled \n■ stories android video trimmer v2 Enabled \n■ aura superlike Enabled \n■ notes audience expansion Enabled \n■ quick snap moods Enabled \n■ friendship surface Enabled \n■ igd android calling buttons config Enabled",
+    "changelog": "Bug fix related to repost and login ",
     "name": "votsz's Backup",
-    "last_updated": "30.01.2026",
+    "last_updated": "31.01.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
