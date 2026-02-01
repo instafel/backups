@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34hotfix",
-    "backup_version": 34,
+    "version_name": "v1",
+    "backup_version": 35,
     "author": "PixelVini",
-    "changelog": "fixed crashing issue while watching reels caption",
+    "changelog": "....",
     "name": "Vini's Instafel Backup",
-    "last_updated": "23.04.2025",
+    "last_updated": "01.02.2026",
     "description": "Simple and Optimized!",
     "optional": {
       "show_author_socials": false
