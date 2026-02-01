@@ -2,11 +2,11 @@
   "manifest_version": 3,
   "manifest": {
     "version_name": "v2026_1hotflix",
-    "backup_version": 63,
+    "backup_version": 64,
     "author": "votsz",
-    "changelog": "Bug fix related to repost and login ",
+    "changelog": "Bug fix related to repost and login",
     "name": "votsz's Backup",
-    "last_updated": "31.01.2026",
+    "last_updated": "01.02.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
