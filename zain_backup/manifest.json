@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v32.1 - Quickfix",
-    "backup_version": 60,
+    "version_name": "v32.1",
+    "backup_version": 61,
     "author": "iamzainnnn",
-    "changelog": "V32.1 — Changelogs\n\n- Fixed recurring DM crash issues.\n- Fixed random crashes when opening comments.\n- Removed the separate Notes theme button.\n- Fixed notification-related issues.\n- Reverted to the old social context UI.\n- Removed the Story button from DM and Explore.\n\nSee full changelogs here :- https://t.me/instafel_community/8828/153778",
+    "changelog": "V32.1 — Changelogs\n\nBased on :- v415.0.0.0.48\n\n- Fixed recurring DM crash issues.\n- Fixed random crashes when opening comments.\n- Fixed DM mention username missing issue.\n- Updated the Message Requests tab for a cleaner experience.\n- Removed the separate Notes theme button.\n- Fixed notification-related issues.\n- Reverted to the old social context UI.\n- Removed the Story button from DM and Explore.\n\nSee previous changelogs here :- \nhttps://t.me/c/2131577917/8828/153778\n👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻",
     "name": "Zain's Backup",
     "last_updated": "03.02.2026",
     "description": "This backup maked for the newest features!",
