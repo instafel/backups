@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v32",
-    "backup_version": 58,
+    "version_name": "v32.1- Quickfix",
+    "backup_version": 59,
     "author": "iamzainnnn",
-    "changelog": "V32 — Changelogs\n\nBased on :- v415.0.0.0.48\n\n🆕 Added / Enabled  \n- Introduced Manus AI in Settings for smarter controls and suggestions.  \n- Enabled HDR capture on supported devices for better photo quality.  \n- Added Valentine-themed mention sticker and photo sticker frames.  \n- Enabled audience list in the Stories audience sheet (not functional yet).  \n- Added custom color selection for the Add Yours sticker.  \n- Enabled Material UI–style toggle buttons across supported screens.  \n- Enabled Superlike feature on Stories.  \n- Enabled loop playback for photo-based Stories.  \n- Enabled Valentine themes for Notes.  \n- Enabled self-remove option in Close Friends stories (not functional yet).  \n- Enabled See Friendship option in profile menu for better context.  \n- Enabled Stories trimmer for videos longer than 1 minute.  \n- Expanded Notes audience options (not functional yet).  \n- Enabled pinch-to-zoom and improved interactions on Reels.  \n- Enabled better Stories tray seen-state handling and refresh behavior.  \n- Enabled improved sharing sheets with richer previews and smoother transitions.  \n\n🔄 Updated / Improved  \n- Refined social context UI for better readability.  \n- Improved Reels audio dubbing behavior via updated flags.  \n- Improved overall toggle responsiveness and UI consistency.  \n- Updated Stories AI restyle and transition handling.  \n- Updated background processing for faster feed and Reels loading.  \n\n🪄 Restored  \n- Brought back the search bar in the Stories viewer list for easier discovery.  \n\n🛠 Fixed  \n- Fixed Reels stretch issue affecting playback.  \n- Fixed crashes while sharing Reels or post links to other apps.  \n- Fixed missing emoji rendering issue.  \n- Fixed random DM crashes.  \n- Fixed Repost button not responding on Reels.  \n- Fixed various stability issues across feed, Stories, and comments.  \n\n📌 Misc  \n- Merged the Call button in DMs for a cleaner and simpler layout.  \n- Updated old flags and enabled multiple under-the-hood optimizations.",
+    "changelog": "V32.1 — Changelogs\n\n- Fixed recurring DM crash issues.\n- Fixed random crashes when opening comments.\n- Removed the separate Notes theme button.\n- Fixed notification-related issues.\n- Reverted to the old social context UI.\n- Removed the Story button from DM and Explore.",
     "name": "Zain's Backup",
-    "last_updated": "31.01.2026",
+    "last_updated": "03.02.2026",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
