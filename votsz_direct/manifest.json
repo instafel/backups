@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v10",
-    "backup_version": 10,
+    "version_name": "v2026_1_instadirect",
+    "backup_version": 11,
     "author": "votsz",
-    "changelog": "■ Backup uses \"votszbackup_v41\" as a base \n\n⚠️ After applying the backup, change this flag \"panavision nav3 tab 3\" for an end point to remove the profile tab. ",
+    "changelog": "■ Backup uses \"votszbackup_v2026_1hotflix\" as a base \n\n⚠️ After applying the backup, change this flag \"panavision nav3 tab 3\" for an end point to remove the profile tab. ",
     "name": "votsz's Direct Backup",
-    "last_updated": "15.12.2025",
+    "last_updated": "07.02.2026",
     "description": "Focused on direct!",
     "optional": {
       "show_author_socials": false
