@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v33.5",
-    "backup_version": 64,
+    "version_name": "v33.5-hotfix",
+    "backup_version": 65,
     "author": "iamzainnnn",
-    "changelog": "V33.5— Changelogs\n\n🆕 Added / Enabled\n- Enabled custom emoji reactions on Stories.\n- Enabled quick reactions in the DM media viewer.\n- Enabled the feed switcher toggle in the experimental Homecoming layout for a refreshed look.\n- Enabled server-powered thread capabilities.\n- Enabled the “Interested / Not Interested” option in the Stories viewer.\n\n🔄 Updated / Improved\n- Restored tabs while searching in the Explore tab.\n- Reverted Reels audio controls back to the old layout.\n- Restored the blur effect while sharing Reels to Stories.\n- Applied additional memory leak fixes for better stability.\n- Enabled some UI update flags and fixed minor bugs.\n\n🛠 Fixed\n- Fixed the Reels header glitch (Reels aspect ratio reverted to default to maintain stability).\n- Fixed several bugs in the experimental Homecoming layout.\n\n🚫 Removed / Disabled\n- Removed Nearby lane due to related issues.\n- Removed the scrollable Stories post-caption toolbar due to usability concerns.",
+    "changelog": "- Fixed infinite loading spinner issue while searching something in the explore tab.\n\nFull changelogs :- https://t.me/c/2131577917/8828/155653",
     "name": "Zain's Backup",
     "last_updated": "17.02.2026",
     "description": "This backup maked for the newest features!",
