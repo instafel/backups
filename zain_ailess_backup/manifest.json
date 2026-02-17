@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v5",
-    "backup_version": 7,
+    "version_name": "v6",
+    "backup_version": 8,
     "author": "iamzainnnn",
-    "changelog": "An AI-less version of Zain’s Instafel Backup\nBased on Zain’s Instafel Backup v33\n\nAlso tried to fix stuttering issues while scrolling reels.\n\nIf you find anything related to Meta AI, please report it to me so I can remove it completely.",
+    "changelog": "An AI-less version of Zain’s Instafel Backup\nBased on Zain’s Instafel Backup v33.5-hotfix\n\nAlso tried to fix stuttering issues while scrolling reels.\n\nIf you find anything related to Meta AI, please report it to me so I can remove it completely.",
     "name": "Zain's AI-less Backup",
-    "last_updated": "16.02.2026",
+    "last_updated": "17.02.2026",
     "description": "This backup maked for the newest features without Meta AI stuffs!",
     "optional": {
       "show_author_socials": true
