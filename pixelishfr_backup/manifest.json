@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v1",
-    "backup_version": 35,
+    "version_name": "v35",
+    "backup_version": 36,
     "author": "PixelVini",
-    "changelog": "....",
+    "changelog": null,
     "name": "Vini's Instafel Backup",
-    "last_updated": "01.02.2026",
+    "last_updated": "18.02.2026",
     "description": "Simple and Optimized!",
     "optional": {
       "show_author_socials": false
