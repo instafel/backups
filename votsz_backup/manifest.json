@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_1hotflix",
-    "backup_version": 64,
+    "version_name": "v2026_2",
+    "backup_version": 65,
     "author": "votsz",
-    "changelog": "Bug fix related to repost and login",
+    "changelog": "#votsz_backup\n\n■ ig4a profile expressive header Enabled \n■ igd android composer unification Enabled \n■ reels overflow menu playback speed Modified \n■ stories emoji quick reaction refresh Enabled \n■ stories selfie replies mc\n■ igd threaded replies Modified \n■ ig4a comment dislike ux improvements Enabled \n■ comments hide avatar Enabled \n■ reels short drama android Modified \n■ nf direct count cap updates Enabled \n ■ stories live photo Disabled \n■ audio browser new label v2 Enabled \n■ feed caption post tap Modified \n■ feed quick editing Enabled \n■ igd android sharesheet emoji composer Enabled \n■ reply bar stories Disabled \n■ profile music reply Enabled \n■ stories duration Enabled \n■ stories pause during zoom Enabled \n■ camera save source bitrate Enabled \n■ stories guidelines Enabled \n■ igd android sharesheet emoji composer Enabled \n■ dominant color Disabled (Bug repost reels fixed)\n■ homecoming Modified \n■ ig4a igd flywheel mini share adaptive sheet Enabled",
     "name": "votsz's Backup",
-    "last_updated": "01.02.2026",
+    "last_updated": "28.02.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
