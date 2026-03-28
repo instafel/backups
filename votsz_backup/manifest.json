@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_2hotflix",
-    "backup_version": 66,
+    "version_name": "v2026_3",
+    "backup_version": 67,
     "author": "votsz",
-    "changelog": "■ Bug fixed",
+    "changelog": "■ notes public comments Enabled \n■ ig4a location sharing story Disabled (bug)\n■ profile fix h1 2026 Enabled \n■ notes reply sheet redesign Modified \n■ notes spotify settings improvements Enabled \n■ notes updated bday animation Enabled \n■ notes birthday v2 Enabled \n■ stories post cap toolbar scrollable Modified \n■ friendly bubble long press menu Modified \n■ igd android inbox typing indicator Enabled \n■ notes updated bday animation Enabled \n■ stories tap mimicry Modified \n■ multi location tagging Enabled \n■ reels archive crossposting Enabled",
     "name": "votsz's Backup",
-    "last_updated": "28.02.2026",
+    "last_updated": "28.03.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
