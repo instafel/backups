@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_3",
-    "backup_version": 67,
+    "version_name": "v2026_4",
+    "backup_version": 68,
     "author": "votsz",
-    "changelog": "■ notes public comments Enabled \n■ ig4a location sharing story Disabled (bug)\n■ profile fix h1 2026 Enabled \n■ notes reply sheet redesign Modified \n■ notes spotify settings improvements Enabled \n■ notes updated bday animation Enabled \n■ notes birthday v2 Enabled \n■ stories post cap toolbar scrollable Modified \n■ friendly bubble long press menu Modified \n■ igd android inbox typing indicator Enabled \n■ notes updated bday animation Enabled \n■ stories tap mimicry Modified \n■ multi location tagging Enabled \n■ reels archive crossposting Enabled",
+    "changelog": "■ search ta nullstate suggestions Disabled by default \n■ ig4a clips offline Enabled \n■ stories creation music navigation Enabled \n■ profile fix h1 2026 Enabled\n■ feed video 2x speed Enabled \n■ cancellable and retryable media uploads Enabled \n■ profile music reply Modified \n■ story interest signals Enabled \n■ stories reshares blur background Enabled \n■ igd new themes Modified \n■ overflow menu icon Enabled \n■ 4k image upload Enabled \n■ story upload progress percentage Enabled \n■ reply bar stories Enabled \n■ reorder carousels Modified \n■ feed quick editing Modified \n■ ini Enabled \n■ stories tap mimicry Modified \n■ sharing ai voices Modified",
     "name": "votsz's Backup",
-    "last_updated": "28.03.2026",
+    "last_updated": "10.04.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
