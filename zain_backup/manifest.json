@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v33.5-hotfix",
-    "backup_version": 65,
+    "version_name": "v34",
+    "backup_version": 66,
     "author": "iamzainnnn",
-    "changelog": "- Fixed infinite loading spinner issue while searching something in the explore tab.\n\nFull changelogs :- https://t.me/c/2131577917/8828/155653",
+    "changelog": "oops.. released by mistake \n\nChangelogs :- https://jpst.it/4YTpL",
     "name": "Zain's Backup",
-    "last_updated": "17.02.2026",
+    "last_updated": "14.04.2026",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
