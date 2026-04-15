@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_4",
-    "backup_version": 68,
+    "version_name": "v2026_4_2",
+    "backup_version": 69,
     "author": "votsz",
-    "changelog": "■ search ta nullstate suggestions Disabled by default \n■ ig4a clips offline Enabled \n■ stories creation music navigation Enabled \n■ profile fix h1 2026 Enabled\n■ feed video 2x speed Enabled \n■ cancellable and retryable media uploads Enabled \n■ profile music reply Modified \n■ story interest signals Enabled \n■ stories reshares blur background Enabled \n■ igd new themes Modified \n■ overflow menu icon Enabled \n■ 4k image upload Enabled \n■ story upload progress percentage Enabled \n■ reply bar stories Enabled \n■ reorder carousels Modified \n■ feed quick editing Modified \n■ ini Enabled \n■ stories tap mimicry Modified \n■ sharing ai voices Modified",
+    "changelog": "CHANGELOG DETAILED 🇺🇸\n\n■ By holding a message in direct you can view without the person knowing that you have seen it (for now)\n\n■ Instagram for tablet in settings\n\n■ Possibility to add a separate caption for each post in a carousel (⛔️ not currently functional)\n\n■ Put banners on the profile of content you like to watch/interest in\n\n■ A quick button to add/move banners from your profile.\n\n■ The lives you do will be saved in your archives.\n\n■ New gender options for those who identify as another gender in the profile tab.\n\n■ It is now possible when editing a stories through the gallery, you drag up to change the photo.\n\n■ The blurred background in the stories is back.\n\n■ Notifications tab has had some changes.\n\n■ New look in the feed and reels related to people you follow and like.\n\n■ I put back the camera in the direct conversations because the gallery started to bug. ",
     "name": "votsz's Backup",
-    "last_updated": "10.04.2026",
+    "last_updated": "15.04.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
