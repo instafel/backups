@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34",
-    "backup_version": 66,
+    "version_name": "v34.1-hotfix",
+    "backup_version": 67,
     "author": "iamzainnnn",
-    "changelog": "oops.. released by mistake \n\nChangelogs :- https://jpst.it/4YTpL",
+    "changelog": "V34.1 — Changelogs\n\n- Resolved an issue causing the keyboard to dismiss unexpectedly in DMs.\n- Added a long-press theme picker in DMs for quicker customization.\n- Enhanced the immersive blur effect in Stories for a smoother visual experience.\n- Fixed inconsistencies with notification icons.\n- Introduced Game Hub in the profile section.\n- Addressed issues with likes visibility nudge behavior.\n- Fixed inaccuracies in the unread message counter badge.\n- Improved overall app stability by resolving multiple ANR issues and memory leaks across Reels, Stories, DMs, and media components.\n- Applied additional internal optimizations for better performance and reliability.",
     "name": "Zain's Backup",
-    "last_updated": "14.04.2026",
+    "last_updated": "15.04.2026",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
