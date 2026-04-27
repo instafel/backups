@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v34.2-quickfix",
-    "backup_version": 68,
+    "version_name": "v34.3-quickfix",
+    "backup_version": 69,
     "author": "iamzainnnn",
-    "changelog": "- Fixed feed disappearing issue (occurred on the latest version)",
+    "changelog": "- Quicksnap(aka instants) is now fully functional again.\n- Stories tab can now be accessed by swiping right on the stories tray.\n- Fixed a crash that occurred while opening the requests tab.\n- Fixed reels unavailable issue.\n- Fixed minor bugs.",
     "name": "Zain's Backup",
-    "last_updated": "23.04.2026",
+    "last_updated": "27.04.2026",
     "description": "This backup maked for the newest features!",
     "optional": {
       "show_author_socials": true
