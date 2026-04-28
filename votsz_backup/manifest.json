@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_4_2",
-    "backup_version": 69,
+    "version_name": "v2026_4_3",
+    "backup_version": 70,
     "author": "votsz",
-    "changelog": "CHANGELOG DETAILED 🇺🇸\n\n■ By holding a message in direct you can view without the person knowing that you have seen it (for now)\n\n■ Instagram for tablet in settings\n\n■ Possibility to add a separate caption for each post in a carousel (⛔️ not currently functional)\n\n■ Put banners on the profile of content you like to watch/interest in\n\n■ A quick button to add/move banners from your profile.\n\n■ The lives you do will be saved in your archives.\n\n■ New gender options for those who identify as another gender in the profile tab.\n\n■ It is now possible when editing a stories through the gallery, you drag up to change the photo.\n\n■ The blurred background in the stories is back.\n\n■ Notifications tab has had some changes.\n\n■ New look in the feed and reels related to people you follow and like.\n\n■ I put back the camera in the direct conversations because the gallery started to bug. ",
+    "changelog": "CHANGELOG DETAILED 🇺🇸\n\n■ Animated themes have been added again in direct\n\n■ By pressing on the bottom in a conversation, you can change the topic of the conversation in direct\n\n■ I removed some boring warnings while using Instagram\n\n■ When pressing and holding for a while in a reels, there will be some tools that you can use (⛔️I got into trouble watching in 2x)\n\n■ Make a silent post that does not go to the feed (premium feature, then it will stop working)\n\n■ New look when seeing the interactions your stories have had\n\n■ The gallery in direct has been repaired\n\n■ I put the features of the new Instagram subscription back (there is a method to be able to use them)\n\n■ New options when clicking the repost button\n\n■ Bugs solved\n\n■ All quicksnap-related commands and instants have been removed (will have a separate application) ",
     "name": "votsz's Backup",
-    "last_updated": "15.04.2026",
+    "last_updated": "28.04.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
