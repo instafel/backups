@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_5",
-    "backup_version": 72,
+    "version_name": "v2026_05_hotflix",
+    "backup_version": 73,
     "author": "votsz",
-    "changelog": "CHANGELOG DETAILED 🇺🇸\n\n■ The blur when viewing stories is on the entire screen\n\n■ Instagram subscription commands enabled (functional only in the piko)\n\n■ Disabled the scroll break that prevented roll of reels from a while\n\n■ The search tab has had a slight change\n\n■ Developer tab has undergone a redesign\n\n■ Silence button when posting a reels in Stories\n\n■ Change the source of the conversation in direct (⛔️ non-functional)\n\n■ Two new note options to use, poll and games\n\n■ When you hold the airplane button in a story, you can quickly send it to a friend\n\n■ Reply with emojis some note quickly\n\n■ Redesign in the viewers and likes section in a story\n\n■ Improvements in some commands and commands that will arrive soon ",
+    "changelog": "■ reels account level social signals Modified \n■ feed account level social signals Modified \n■ search client multi turn search Modified \n■ 4k image upload Modified",
     "name": "votsz's Backup",
-    "last_updated": "14.05.2026",
+    "last_updated": "16.05.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
