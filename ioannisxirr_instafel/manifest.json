@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v51",
-    "backup_version": 51,
+    "version_name": "v52",
+    "backup_version": 52,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v51\n\nProbably forgotten now, self-defeated, but magically got the urge to work on Instagram things again!\n\n-Disabled the ability to swipe left from the carousel posts to get to the story/reels/posts menu (this has bothered me a lot).\n-You can now infinitely swipe in carousel media.\n-Enabled haptic feedback in all actions in the feed.\n-You can now reply to stories with voice messages, media, GIFs and stickers.\n-Fixed some crashes regarding adding to story.",
+    "changelog": "ioannisxirr's Instafel backup v52\n- Disabled the ads on the backup (huge shoutout to Raaz for sharing the flag, thank you! ❤️)\n- Removed the 1 second minimum duration of stories.\n- You can now lock the 2x speed in reels.\n- Debloated the audio selection screen a bit.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "25.05.2026",
+    "last_updated": "16.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
