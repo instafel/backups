@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v53",
-    "backup_version": 53,
+    "version_name": "v54",
+    "backup_version": 54,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v53\n\n- Redesigned the tagging section in posts, with suggested users now showing up for a quicker access.\n- Redesigned the connections in the profiles, which now look way more clean.\n- Redesigned the viewers section in stories.\n- You can now reply to reels in chats with a camera photo, media, voice messages and GIPHY stickers.\n- Now, when you're playing songs sent in chats, you can see the lyrics in the cover.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v54\n\n- You can now create Instants with videos.\n- Moved some reels settings into More options to make the reels publishing screen look less bloated.\n- A new menu is now available when pausing in reels, which allow you to quickly go into full screen, mute/unmute the audio, enable closed captions, play with the speed and enable AI dubs (I cannot test the latter two because they're not available in any reels for me, could be because of location constraints, feel free to test them and provide feedback).\n- Added the save icon in the reels viewing screen, without having to open the three-dot menu, and also simplified the reels viewing screen for a more immersive experience.\n- Fixed the navigation glitches in the feed.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "17.06.2026",
+    "last_updated": "18.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
