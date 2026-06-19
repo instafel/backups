@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v54",
-    "backup_version": 54,
+    "version_name": "v55",
+    "backup_version": 55,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v54\n\n- You can now create Instants with videos.\n- Moved some reels settings into More options to make the reels publishing screen look less bloated.\n- A new menu is now available when pausing in reels, which allow you to quickly go into full screen, mute/unmute the audio, enable closed captions, play with the speed and enable AI dubs (I cannot test the latter two because they're not available in any reels for me, could be because of location constraints, feel free to test them and provide feedback).\n- Added the save icon in the reels viewing screen, without having to open the three-dot menu, and also simplified the reels viewing screen for a more immersive experience.\n- Fixed the navigation glitches in the feed.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v55\n\n- Added a \"Places\" option in search.\n- Added bottom buttons to share audios to stories, use them when seeing them from another story or save them when seeing them from reels.\n- Added a forward button next to your voice messages for quicker sharing.\n- Added an avatar option in voice chats (doesn't seem to work for now, feel free to provide feedback).\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "18.06.2026",
+    "last_updated": "19.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
