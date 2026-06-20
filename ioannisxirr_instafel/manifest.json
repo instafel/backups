@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v55",
-    "backup_version": 55,
+    "version_name": "v56",
+    "backup_version": 56,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v55\n\n- Added a \"Places\" option in search.\n- Added bottom buttons to share audios to stories, use them when seeing them from another story or save them when seeing them from reels.\n- Added a forward button next to your voice messages for quicker sharing.\n- Added an avatar option in voice chats (doesn't seem to work for now, feel free to provide feedback).\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v56\n\n- Replaced the old colour picker from the notes to a colour wheel above the bubble.\n- Redesigned how your note details look after you have posted one.\n- Cleaned up the Direct section a little bit, converting the search bar into a search button at the top left corner of the screen.\n- Say hello to the avatar quests! Do the quests Meta mentions and get some extra avatar stickers! (please note that I haven't tested it a lot yet, so feel free to give feedback, thank you!)\n- Minor changes and clean-ups ",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "19.06.2026",
+    "last_updated": "20.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
