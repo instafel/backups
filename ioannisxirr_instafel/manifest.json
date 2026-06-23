@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v58",
-    "backup_version": 58,
+    "version_name": "v59",
+    "backup_version": 59,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v58\n\nWow, a week full of updates!\n\n- Enabled haptic feedback when swiping through tabs on Instagram.\n- Added holding for 2x speed for reels in the normal feed, carousel photos with music attached to them, as well as carousel videos.\n- Redesigned the Recent searches in Explore.\n- Added a reel and carousel icon in the videos and carousel posts showed in Explore after searching something.\n- Added a button to quickly switch accounts through the Notifications tab.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v59\n\n- You can now cancel sending a video or a photo in a chat without waiting for it to be posted.\n- Added an uploading progress indicator on media that are being sent.\n- Redesigned the voice message UI.\n- You can now add funny effects to your voice chats (I'm in LOVE with them!)\n- Redesigned the previews when you hold them in the Direct gallery picker. There's also a new menu where you can favourite or delete the media (the favourites can be accessed from a new category that will show if you press the Recents text).\n- Minor changes.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "22.06.2026",
+    "last_updated": "23.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
