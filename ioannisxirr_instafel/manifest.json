@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v59",
-    "backup_version": 59,
+    "version_name": "v60",
+    "backup_version": 60,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v59\n\n- You can now cancel sending a video or a photo in a chat without waiting for it to be posted.\n- Added an uploading progress indicator on media that are being sent.\n- Redesigned the voice message UI.\n- You can now add funny effects to your voice chats (I'm in LOVE with them!)\n- Redesigned the previews when you hold them in the Direct gallery picker. There's also a new menu where you can favourite or delete the media (the favourites can be accessed from a new category that will show if you press the Recents text).\n- Minor changes.",
+    "changelog": "ioannisxirr's Instafel backup v60\n\n- Redesigned the menu when holding a chat in Instagram Direct.\n- Redesigned the menu when holding a story icon.\n- Enabled Touch Up for Stories.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "23.06.2026",
+    "last_updated": "24.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
