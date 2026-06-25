@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v60",
-    "backup_version": 60,
+    "version_name": "v61",
+    "backup_version": 61,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v60\n\n- Redesigned the menu when holding a chat in Instagram Direct.\n- Redesigned the menu when holding a story icon.\n- Enabled Touch Up for Stories.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v61\n\n10 days full of updates in a row😍\n\n- Fixed the chats not loading (huge kudos to Zain for finding the flags, thanks a lot!🔥)\n- Redesigned the Reel editing preview.\n- Redesigned the profile editing page.\n- Fixed the voice message background playback not working.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "24.06.2026",
+    "last_updated": "25.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
