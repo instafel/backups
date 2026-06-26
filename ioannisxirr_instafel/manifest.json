@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v61",
-    "backup_version": 61,
+    "version_name": "v62",
+    "backup_version": 62,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v61\n\n10 days full of updates in a row😍\n\n- Fixed the chats not loading (huge kudos to Zain for finding the flags, thanks a lot!🔥)\n- Redesigned the Reel editing preview.\n- Redesigned the profile editing page.\n- Fixed the voice message background playback not working.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v62\n\n- You can now select a reel to watch in Picture-in-Picture.\n- One thing I hate when watching stories is seeing a photo or a video and even though I'm trying to watch it in peace, the time ends and it goes automatically to the next one. Well, that feature is disabled now!\n- Redesigned how you see the stories.\n- Merged the audio and video call buttons into one (that way, it's more difficult to call somebody on accident).\n- Redesigned how you edit your profile picture in your profile, as well how the profile pictures of other expand.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "25.06.2026",
+    "last_updated": "26.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
