@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v2026_05_hotflix",
-    "backup_version": 73,
+    "version_name": "v2026_6",
+    "backup_version": 74,
     "author": "votsz",
-    "changelog": "■ reels account level social signals Modified \n■ feed account level social signals Modified \n■ search client multi turn search Modified \n■ 4k image upload Modified",
+    "changelog": "CHANGELOG DETAILED 🇺🇸\n\n■ The backup was remade due to problems of some conflicting flags causing crashes and high battery consumption. In this version, these two problems were corrected.\n\n■ The reordered buttons have been removed at base 434.0.0.0.8, so it is no longer possible to change the location of the buttons",
     "name": "votsz's Backup",
-    "last_updated": "16.05.2026",
+    "last_updated": "26.06.2026",
     "description": "Backup for those who want new functions before the public, maximum quality and Stable",
     "optional": {
       "show_author_socials": false
