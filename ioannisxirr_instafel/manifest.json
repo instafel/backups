@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v62",
-    "backup_version": 62,
+    "version_name": "v63",
+    "backup_version": 63,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v62\n\n- You can now select a reel to watch in Picture-in-Picture.\n- One thing I hate when watching stories is seeing a photo or a video and even though I'm trying to watch it in peace, the time ends and it goes automatically to the next one. Well, that feature is disabled now!\n- Redesigned how you see the stories.\n- Merged the audio and video call buttons into one (that way, it's more difficult to call somebody on accident).\n- Redesigned how you edit your profile picture in your profile, as well how the profile pictures of other expand.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v63\n\n- Reverted to the old context menu design in chats, since the new one has issues regarding its placement in the screen space.\n- Now the \"See location\" button in stories is always dark for better visibility.\n- You can now hold the caption of a reel to expand the comments.\n- If you hold at the reels viewing space now, the options you would get by pressing the three dots will show up.\n- Added a \"No internet connection\" banner at the bottom of the chats when you have no Internet connection.\n- Minor changes.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "26.06.2026",
+    "last_updated": "27.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
