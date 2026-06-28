@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v63",
-    "backup_version": 63,
+    "version_name": "v64",
+    "backup_version": 64,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v63\n\n- Reverted to the old context menu design in chats, since the new one has issues regarding its placement in the screen space.\n- Now the \"See location\" button in stories is always dark for better visibility.\n- You can now hold the caption of a reel to expand the comments.\n- If you hold at the reels viewing space now, the options you would get by pressing the three dots will show up.\n- Added a \"No internet connection\" banner at the bottom of the chats when you have no Internet connection.\n- Minor changes.",
+    "changelog": "ioannisxirr's Instafel backup v64\n\n- Removed the bottom controls when pausing reels because it caused issues in feed and profile reels.\n- Introducing Instagram events! You can now host an event and add details to it, the guests can let you know if they will be present or not, you can chat there so you can organise the event with your friends without having them among your normal chat groups and finally, add the events to your calendar easily.\n- Redesigned the refreshing spinner animation in the Reels tab.\n- Something that I had added since the first versions of my backups was the chats in Direct showing you up to 99  messages instead of 4  messages. Brought back that feature now.\n- You can now summarise the latest messages (though it doesn't work very well as of now, feel free to provide feedback).\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "27.06.2026",
+    "last_updated": "28.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
