@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v64",
-    "backup_version": 64,
+    "version_name": "v65",
+    "backup_version": 65,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v64\n\n- Removed the bottom controls when pausing reels because it caused issues in feed and profile reels.\n- Introducing Instagram events! You can now host an event and add details to it, the guests can let you know if they will be present or not, you can chat there so you can organise the event with your friends without having them among your normal chat groups and finally, add the events to your calendar easily.\n- Redesigned the refreshing spinner animation in the Reels tab.\n- Something that I had added since the first versions of my backups was the chats in Direct showing you up to 99  messages instead of 4  messages. Brought back that feature now.\n- You can now summarise the latest messages (though it doesn't work very well as of now, feel free to provide feedback).\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v65\n\n2 weeks full of consequent updates let's go!!!🔥🔥🔥\n\n- Added a quick search suggestion in comments.\n- You can now speak to Meta AI with your voice just like you do in Gemini Live. Press the blue button on the bottom right!\n- You can now send videos to Meta AI and it will analyse them.\n- Increased how many media you can send at bulk in Meta AI.\n- You can now create animated collages in stories in a form of sequential photos or cutouts (the cutout option is really cool!).\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "28.06.2026",
+    "last_updated": "29.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
