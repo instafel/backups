@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v65",
-    "backup_version": 65,
+    "version_name": "v66",
+    "backup_version": 66,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v65\n\n2 weeks full of consequent updates let's go!!!🔥🔥🔥\n\n- Added a quick search suggestion in comments.\n- You can now speak to Meta AI with your voice just like you do in Gemini Live. Press the blue button on the bottom right!\n- You can now send videos to Meta AI and it will analyse them.\n- Increased how many media you can send at bulk in Meta AI.\n- You can now create animated collages in stories in a form of sequential photos or cutouts (the cutout option is really cool!).\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v66😈\n\n- You can now send the messages from chats directly to Meta AI. Long press the message to try it out!\n- You can now react again to stories with emojis other than the default ones, while also added new animations and redesigned them.\n- Fixed some slight issues with the Instagram Events.\n- You can now share voice messages that are made using the voice message effects to your story.\n- Redesigned the Instagram logo.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "29.06.2026",
+    "last_updated": "30.06.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
