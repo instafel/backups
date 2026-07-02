@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v66.1",
-    "backup_version": 67,
+    "version_name": "v67",
+    "backup_version": 68,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v66.1\n\n- Fixed the buggy context menu in the chats again.",
+    "changelog": "ioannisxirr's Instafel backup v67🫴🫴\n\n- You can now save posts as drafts.\n- Redesigned the Explore icon.\n- Added a search icon in feed reels, direct reels and profile reels so you don't need to leave from the place you are to search for something.\n- Redesigned the more button in your stories.\n- Redesigned the More options screen in your stories.\n- Minor changes and clean-ups.",
     "name": "ioannisxir's Instafel Backup",
     "last_updated": "02.07.2026",
     "description": "Yeah, most popular backup in the world!",
