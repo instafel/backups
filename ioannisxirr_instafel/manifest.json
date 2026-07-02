@@ -1,12 +1,12 @@
 {
   "manifest_version": 3,
   "manifest": {
-    "version_name": "v66",
-    "backup_version": 66,
+    "version_name": "v66.1",
+    "backup_version": 67,
     "author": "ioannisxirouxakis",
-    "changelog": "ioannisxirr's Instafel backup v66😈\n\n- You can now send the messages from chats directly to Meta AI. Long press the message to try it out!\n- You can now react again to stories with emojis other than the default ones, while also added new animations and redesigned them.\n- Fixed some slight issues with the Instagram Events.\n- You can now share voice messages that are made using the voice message effects to your story.\n- Redesigned the Instagram logo.\n- Minor changes and clean-ups.",
+    "changelog": "ioannisxirr's Instafel backup v66.1\n\n- Fixed the buggy context menu in the chats again.",
     "name": "ioannisxir's Instafel Backup",
-    "last_updated": "30.06.2026",
+    "last_updated": "02.07.2026",
     "description": "Yeah, most popular backup in the world!",
     "optional": {
       "show_author_socials": false
